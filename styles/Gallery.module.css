@@ -1,0 +1,29 @@
+/* Gallery css (npm react-image-gallery) */
+
+.galleryWrapper {
+    margin-bottom: 20px;
+}
+
+.chevCol {
+    padding: 0px;
+    text-align: center;
+}
+
+.thumbsWrapper {
+    float: left;
+    display: inline;
+    white-space: nowrap;
+    height: 130px;
+}
+
+.thumbBox {
+    display: inline;
+    float: left;
+    width: 130px;
+    background-color: red;
+}
+
+.thumb img {
+    width: 130px;
+}
+

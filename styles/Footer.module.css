@@ -1,0 +1,26 @@
+/* Footer styles */
+
+
+.borderme {
+    border: 1px solid black;
+}
+
+.footerWrapper {
+    background-color: #0E5572;
+    padding-top: 20px;
+    margin-top: 50px;
+}
+
+.footerWrapper a {
+    color: #86a1ac;
+}
+
+.footerWrapper ul {
+    list-style-type: none;
+    margin-left: 20px;
+}
+
+.footerWrapper li {
+    font-size: 1.1rem;
+    line-height: 1.8;
+}

@@ -1,0 +1,13 @@
+/* Pillar styles */
+
+
+
+.featuredStrong {
+    font-size: 1.25rem;
+}
+
+@media screen and (max-width: 992px) {
+    .frontPageCard {
+        margin-bottom: 20px;
+    }
+}

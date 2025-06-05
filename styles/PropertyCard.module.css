@@ -1,0 +1,49 @@
+/* Styles for property card */
+
+.propertyCard {
+    width: 100%;
+    height: 100% !important;
+}
+
+.priceLabel {
+    display: block;
+    color: #ffffff;
+    background-color: #47b0c1;
+    padding-left: 20px;
+    padding-right: 13px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-size: 26px;
+    width: 100%;
+}
+
+.priceLabelSmall {
+    font-size: 17px;
+}
+
+.cardTitle {
+    margin-bottom: 0px !important;
+}
+
+.smallLabel {
+    font-size: 14px;
+    font-weight: 600;
+    color: #9b3729;
+}
+
+.starstrip img {
+    width: 20px;
+}
+
+.alignTextBottom {
+    vertical-align: text-bottom !important;
+}
+
+.listingPageBookButton {
+    margin-top: 3px;
+    float: right;
+}
+
+.listingPhoto:hover {
+    cursor: pointer;
+}

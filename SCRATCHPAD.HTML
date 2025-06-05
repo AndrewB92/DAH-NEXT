@@ -1,0 +1,157 @@
+<div className="cont cont-col left-column">
+    <div className="cont cont-col gap-30 apartment-details">
+
+        <h1 className="apartment-title">The Cornerstone Two by <br /> Dublin At Home</h1>
+        
+        <div className="cont cont-row gap-8 rating-container">
+            <svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M9.04894 0.927052C9.3483 0.00574112 10.6517 0.00573993 10.9511 0.927051L12.4697 5.60081C12.6035 6.01284 12.9875 6.2918 13.4207 6.2918H18.335C19.3037 6.2918 19.7065 7.53141 18.9228 8.10081L14.947 10.9894C14.5966 11.244 14.4499 11.6954 14.5838 12.1074L16.1024 16.7812C16.4017 17.7025 15.3472 18.4686 14.5635 17.8992L10.5878 15.0106C10.2373 14.756 9.7627 14.756 9.41221 15.0106L5.43648 17.8992C4.65276 18.4686 3.59828 17.7025 3.89763 16.7812L5.41623 12.1074C5.55011 11.6954 5.40345 11.244 5.05296 10.9894L1.07722 8.10081C0.293507 7.53141 0.696283 6.2918 1.66501 6.2918H6.57929C7.01252 6.2918 7.39647 6.01284 7.53035 5.60081L9.04894 0.927052Z" fill="#FFC663"/>
+            </svg>                                
+            <span className="rating-value">5,0</span>
+            <span className="review-count">• 10 reviews</span>
+        </div>
+
+        <div className="cont cont-row tab-container">
+            <button className="tab-item" data-tab="description">Description</button>
+            <button className="tab-item" data-tab="nearby-attractions">Nearby Attractions</button>
+            <button className="tab-item" data-tab="facilities">Facilities</button>
+            <select className="mob-tab-item" >
+                <option value="description">Description</option>
+                <option value="nearby-attractions">Nearby Attractions</option>
+                <option value="facilities">Facilities</option>
+            </select>
+        </div>
+
+        <div className="tab-content" id="description">
+            <h2>General Description</h2>
+            <p>The Cornerstone is a prestigious new development in the heart of Stillorgan Village, a lively suburban neighbourhood just a 20-minute drive from Stephens Green. This location offers the best of both worlds: the charm of village living with the city, coast, and mountains all within easy reach, thanks to excellent transportation options. You'll find an array of shops, eateries, and leisure spots right at your doorstep.</p>
+            <p>Experience top-tier urban living with exclusive amenities including a gym, communal kitchen and lounge area, games room, rooftop terrace, and a state-of-the-art business centre. The landscaped internal courtyard features a private children's play area and benches for relaxation.</p>
+            <h2>Space</h2>
+            <p>At The Cornerstone, you'll discover a variety of luxury apartments designed for modern living, each featuring a balcony to relax and take in the views. These meticulously crafted apartments are filled with natural light and boast high-end finishes and thoughtful details throughout ensuring a truly inviting living experience.</p>
+            <h2>Neighbourhood</h2>
+            <p>The apartments are in the heart of Stillorgan village which has numerous pubs, restaurants, provide plenty of options to explore. With its convenient local amenities and strong sense of community, The Cornerstone offers an ideal lifestyle in the heart of a vibrant village.</p>
+            <h2>Transit</h2>
+            <p>Getting to The Cornerstone couldn't be easier. We are right on the N11 with a Quality Bus Corridor which means you can be in the City Centre in less than 30 minutes. Aircoach provides a direct link to Dublin Airport via the city centre. There is ample basement parking (nightly fee of €10 applies) and a place to park your bike or E Bike or E-Scooter. Blackrock Village, Dun Laoghaire seafront and Dundrum Town Centre are all less than 20-minute drive.</p>
+        </div>
+
+        <div className="tab-content" id="nearby-attractions">
+            <h2>Nearby Attractions</h2>
+            <p>Attractions description goes here...</p>
+            {/* <!-- More content --> */}
+        </div>
+
+        <div className="tab-content" id="facilities">
+            <h2>Facilities</h2>
+            <p>Facilities description goes here...</p>
+            {/* <!-- More content --> */}
+        </div>
+    </div>
+</div>
+
+
+
+/* BK Calendar code */
+<div className="cont cont-col right-column">
+
+    <div className="cont cont-col gap-30 booking-container">
+        
+        <div className="cont cont-col booking-card">
+        
+            <div className="cont cont-col booking-details">
+                <p className="booking-price">€350 per night</p>
+                <p className="booking-description">Book The Cornerstone Two by Dublin At Home</p>
+            </div>
+
+            <div className="cont cont-col calendar-container">
+        
+                <div className="cont cont-row date-display">
+                    <span className="month">August</span>
+                    <span className="year">2024</span>
+                </div>
+
+                <table className="calendar" aria-label="Calendar for August 2024">
+                    <thead>
+                        <tr>
+                            <th>Su</th>
+                            <th>Mo</th>
+                            <th>Tu</th>
+                            <th>We</th>
+                            <th>Th</th>
+                            <th>Fr</th>
+                            <th>Sa</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><button className="empty" disabled></button></td>
+                            <td><button>1</button></td>
+                            <td><button>2</button></td>
+                            <td><button>3</button></td>
+                            <td><button>4</button></td>
+                            <td><button>5</button></td>
+                            <td><button>6</button></td>
+                        </tr>
+                        <tr>
+                            <td><button>7</button></td>
+                            <td><button>8</button></td>
+                            <td><button>9</button></td>
+                            <td><button>10</button></td>
+                            <td><button className="today">11</button></td>
+                            <td><button>12</button></td>
+                            <td><button>13</button></td>
+                        </tr>
+                        <tr>
+                            <td><button>14</button></td>
+                            <td><button>15</button></td>
+                            <td><button>16</button></td>
+                            <td><button>17</button></td>
+                            <td><button>18</button></td>
+                            <td><button>19</button></td>
+                            <td><button>20</button></td>
+                        </tr>
+                        <tr>
+                            <td><button>21</button></td>
+                            <td><button>22</button></td>
+                            <td><button>23</button></td>
+                            <td><button>24</button></td>
+                            <td><button>25</button></td>
+                            <td><button>26</button></td>
+                            <td><button>27</button></td>
+                        </tr>
+                        <tr>
+                            <td><button>28</button></td>
+                            <td><button>29</button></td>
+                            <td><button>30</button></td>
+                            <td><button>31</button></td>
+                            <td><button className="empty" disabled></button></td>
+                            <td><button className="empty" disabled></button></td>
+                            <td><button className="empty" disabled></button></td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <a href="#" className="cta-main green booking-btn">
+                    <span>Book now</span>
+                    <svg width="33" height="32" viewBox="0 0 33 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M11.6383 21.5096L10.9901 20.8614C10.8111 20.6824 10.8111 20.3922 10.9901 20.2132L18.8785 12.3249L13.1162 12.3314C12.994 12.3319 12.8766 12.2835 12.7902 12.1971C12.7038 12.1107 12.6555 11.9934 12.656 11.8711L12.6624 10.9572C12.6619 10.835 12.7103 10.7177 12.7967 10.6312C12.8831 10.5448 13.0004 10.4965 13.1227 10.497L21.0758 10.4905C21.2581 10.4904 21.433 10.5627 21.562 10.6915L21.8083 10.9378C21.9354 11.0679 22.0074 11.242 22.0092 11.4239L22.0027 19.3771C22.0032 19.4993 21.9549 19.6166 21.8685 19.7031C21.7821 19.7895 21.6647 19.8378 21.5425 19.8373L20.6221 19.8373C20.5014 19.8385 20.3853 19.7911 20.2999 19.7058C20.2146 19.6204 20.1672 19.5043 20.1684 19.3836L20.1749 13.6212L12.2865 21.5096C12.1075 21.6886 11.8173 21.6886 11.6383 21.5096Z" fill="white"/>
+                    </svg>
+                </a>
+            </div>
+        </div>
+
+        <div className="cont cont-col gap-24 enquiry-card">
+            <h2 className="enquiry-title">Not ready to book yet?</h2>
+            <p className="enquiry-description">Adipiscing faucibus auctor faucibus elementum eu risus. Rutrum lacus vel tincidunt cras et eget scelerisque mattis parturient.</p>
+            <a href="#" className="cta-main green booking-btn">
+                <span>Make a general enquiry</span>
+                <svg width="33" height="32" viewBox="0 0 33 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M11.6383 21.5096L10.9901 20.8614C10.8111 20.6824 10.8111 20.3922 10.9901 20.2132L18.8785 12.3249L13.1162 12.3314C12.994 12.3319 12.8766 12.2835 12.7902 12.1971C12.7038 12.1107 12.6555 11.9934 12.656 11.8711L12.6624 10.9572C12.6619 10.835 12.7103 10.7177 12.7967 10.6312C12.8831 10.5448 13.0004 10.4965 13.1227 10.497L21.0758 10.4905C21.2581 10.4904 21.433 10.5627 21.562 10.6915L21.8083 10.9378C21.9354 11.0679 22.0074 11.242 22.0092 11.4239L22.0027 19.3771C22.0032 19.4993 21.9549 19.6166 21.8685 19.7031C21.7821 19.7895 21.6647 19.8378 21.5425 19.8373L20.6221 19.8373C20.5014 19.8385 20.3853 19.7911 20.2999 19.7058C20.2146 19.6204 20.1672 19.5043 20.1684 19.3836L20.1749 13.6212L12.2865 21.5096C12.1075 21.6886 11.8173 21.6886 11.6383 21.5096Z" fill="white"/>
+                </svg>
+            </a>
+        </div>
+
+    </div>
+</div>
+
+
+/* /End Calendar code */

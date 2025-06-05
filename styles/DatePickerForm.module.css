@@ -1,0 +1,167 @@
+.datePickerForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.gridContainer {
+    display: grid;
+    grid-template-columns: auto 1px auto 1px auto auto; /* Three main blocks, two separators, and the button */
+    align-items: center;
+    gap: 10px; /* Control spacing around elements */
+}
+
+.field {
+    border-left: 1px solid rgb(213, 211, 211);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.fieldFirst {
+  border-left: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.fieldLabel {
+  font-size: 18px;
+  font-weight: 400;
+  color: #808080 !important;
+  margin-bottom: 8px;
+}
+
+.separator {
+    height: 40px;
+    width: 1px;
+    background-color: #dddddd;
+}
+
+.searchButton {
+    display: flex;
+    align-items: center;
+    background-color: #38b2ac;
+    color: #ffffff;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    width: 90%;
+    margin-top: 7px;
+}
+
+.searchButton svg {
+    margin-left: 8px;
+}
+
+.link {
+    width: 100%;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.link a {
+    font-size: 20px;
+    color: #38b2ac;
+    text-decoration: none;
+}
+
+
+
+/* From old Selector.module.css */
+/* Styles for Selector module */
+
+
+.wrapper {
+    border: 12px solid lightgrey;
+    background-color: #ffffff;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 10px;
+    margin-bottom: 30px;
+}
+
+.dataColumn {
+  padding-top: 10px;
+  background-color: #ffffff;
+  height: 50px;
+  color: #818181;
+}
+
+.dataColumn h6 {
+  font-size: 1.5rem;
+}
+
+.town {
+    border: 0px;
+    width: 80%;
+    background-color: #ffffff;
+    color: #818181;
+    font-size: 1.2rem;
+}
+
+.select {
+  border: 0px;
+  background-color: #ffffff;
+  color: #818181;
+  font-size: 1.2rem;
+}
+
+
+
+.dateSelectColumn {
+  padding-top: 10px;
+  background-color: #ffffff;
+  height: 50px;
+  color: #818181;
+}
+
+.datePickerInput {
+  font-size: 1.1rem;
+  color: #818181;
+  border: none;
+  width: 100%;
+  margin-left: 10px
+}
+
+@media (max-width: 992px) {
+  .datePickerInput {
+    border: 1px solid #d3d3d3;
+    padding: 19px 20px 19px 20px;
+    border-radius: 10px 10px 10px 10px;
+    width: 98%;
+  }
+
+  .searchButton {
+    width: 100%;
+  }
+
+  .searchButtonText {
+    margin: 0 auto;
+    margin-top: 5px;
+    color: #ffffff !important;
+    font-weight: bold !important;
+  }
+
+  .field {
+    border-left: none;
+  }
+}
+
+

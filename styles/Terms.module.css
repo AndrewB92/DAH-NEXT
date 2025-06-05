@@ -1,0 +1,36 @@
+/* Terms & Conditions styles */
+
+.mainHead {
+    text-align: center;
+    font-size: 1.5em;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #9b3729;
+    margin-bottom: 20px;
+}
+
+.subHead {
+    font-size: 1.4em;
+    font-weight: 600;
+    color: #9b3729;
+    margin-bottom: 10px;
+}
+
+.subSubHead {
+    font-size: 1em;
+    color: #5e5e5e;
+    margin-bottom: 0px;
+}
+
+.listHeader {
+    font-size: .5em;
+    margin-left: 34px;
+}
+
+.bolder {
+    font-weight: 600;
+}
+
+.indentedList {
+    margin-left: 49px;
+}

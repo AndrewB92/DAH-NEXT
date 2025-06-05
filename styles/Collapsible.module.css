@@ -1,0 +1,38 @@
+.collapsiblesWrapper {
+    margin-bottom: 16px;
+}
+
+.collapsibleTriggerBtn {
+    background-color: #f1f1f1;
+    border: none;
+    padding: 12px;
+    cursor: pointer;
+    text-align: left;
+    width: 100%;
+    font-size: 16px;
+}
+
+.collapsibleTriggerBtn::after {
+    content: '+';
+    font-size: 24px;
+    color: #222753; /* This color comes from your current design */
+    float: right; /* This will position it to the right side */
+    transition: transform 0.3s ease;
+}
+
+.collapsibleTriggerBtn.isOpen::after {
+    transform: rotate(45deg); /* Rotates the '+' to become an 'x' when open */
+}
+
+.collapsibleContent {
+    overflow: hidden;
+}
+
+.collapsibleContentInner {
+    padding: 12px;
+    background-color: #fafafa;
+}
+
+.testCase {
+    color: red;
+}

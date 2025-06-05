@@ -1,0 +1,79 @@
+/* Nav module styles */
+
+.navBarWrapper {
+    background-color: #F8FAFC;
+    padding-right: 0px !important; 
+}
+
+.navbar {
+    margin: 20px 0 10px 0;
+    background-color: #e0e0e0;
+}
+
+.navbar a {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 0.9rem;
+    font-weight: 600;
+}
+
+.socialCol {
+    padding-left: 0px !important;
+    padding-top: 20px;
+}
+
+.socialLogos {
+    padding-top: 10px;
+    padding-right: 8px;
+    height: 54px;
+    background-color: #e0e0e0;
+    text-align: right;
+}
+
+.socialIcon {
+    margin-right: 8px;
+}
+
+.iconWhatsApp {
+    width: 35px;
+    height: 35px;
+    fill: #465A63;
+}
+
+.iconSocial {
+    width: 32px;
+    height: 32px;
+}
+
+.socialRowMobile {
+    display: none;
+}
+
+.wpbutton {
+    display: none;
+}
+
+
+.styles-module_chatHeader__23UA6 .styles-module_statusTitle__1svrc {
+    color: white !important;
+}
+
+@media screen and (max-width: 992px) {
+    .navBarWrapper {
+        padding-right: 15px !important; 
+    }
+    .socialLogos {
+        padding-right: 0px;
+        padding-left: 0px;
+        height: 54px;
+    }
+    .socialCol {
+        display: none;
+    }
+    .socialRowMobile {
+        display: block;
+    }
+    .wpbutton {
+        display: flex;
+        z-index: 12000 !important;
+    }
+}

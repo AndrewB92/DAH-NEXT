@@ -1,0 +1,76 @@
+/* Mobile selector css */
+
+.mobileSelector {
+    margin-bottom: 15px;
+}
+
+.container {
+    display: flex;
+    border: 12px solid #8ecec0;
+}
+
+.containerSelect {
+    display: flex;
+    background-color: #8ecec0;
+    border: 12px solid#8ecec0;
+}
+
+.containerButton {
+    flex-grow: 1;
+    border: 12px solid#8ecec0;
+    background-color: #8ecec0;
+}
+
+.contentBox {
+    flex: 1;
+    padding: 8px;
+    background-color: #ffffff;
+}
+
+.contentBoxTitle {
+    flex: 1;
+    background-color: #8ecec0;
+}
+
+.title {
+    color: #5e5e5e;
+    font-size: 1.8rem;
+    text-align: center;
+    margin-bottom: -10px;
+}
+
+.buttonBox {
+    flex: 1;
+    justify-content: center;
+    background-color: #8ecec0;
+    padding-top: 0px;
+    padding-left: 5px;
+    padding-right: 0px;
+}
+
+.submitButton {
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: #9b3729;
+    border-color: #9b3729;
+}
+
+.select {
+    width: 100%;
+    height: 35px;
+    border: 0px;
+    background-color: #ffffff;
+    font-size: 1rem;
+    
+}
+
+.label {
+    color: #9b3729;
+    font-size: 1.25rem;
+}
+
+@media screen and (min-width: 992px) {
+    .mobileSelector {
+      display: none;
+    }
+}

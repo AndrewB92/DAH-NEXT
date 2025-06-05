@@ -1,0 +1,38 @@
+/* CSS For Hero component */
+
+.heroWrapper {
+    margin-bottom: 20px;
+}
+
+.searchMessage {
+    display: block;
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+.heroImage img {
+    vertical-align: middle;
+}
+
+.heroImageDesktop {
+    display: nonblocke;
+}
+
+.heroImageMobile {
+    display: none;
+}
+
+@media only screen and (max-width: 900px) {
+    .searchMessage {
+        display: none;
+    }
+    .heroImageDesktop {
+        display: none;
+    }
+    
+    .heroImageMobile {
+        display: block;
+    }    
+  }
+

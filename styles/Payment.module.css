@@ -1,0 +1,339 @@
+.central {
+    text-align: center;
+}
+
+.submitButton_OLD {
+    margin-top: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.submitButton {
+  background-color: #40a594; /* Green button color */
+  color: white;
+  padding: 0.75rem;
+  border: none;
+  border-radius: 25px;
+  font-size: 1rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  gap: 0.5rem;
+}
+
+
+.checkoutPanel {
+  text-align: center;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.paymentMessage {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.headline {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.bookingContainer {
+  background-color: white;
+  padding: 50px;
+  border-radius: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.ticket {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.ticketPic {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50px;
+  width: 100%;
+}
+
+.ticket h2, .ticket h4, .ticket h5, .ticket h1 {
+  margin: 10px 0;
+}
+
+.ticket h2 {
+  font-size: 28px;
+}
+
+.ticket h4 {
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.ticket h5 {
+  font-size: 18px;
+}
+
+.ticket h1 {
+  font-size: 36px;
+  color: #333;
+}
+
+.ticket p {
+  font-size: 14px;
+  line-height: 1.5;
+  color: #666;
+}
+
+.formRow {
+  margin-right: 20px;
+  margin-bottom: 40px;
+}
+
+.formRow label {
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.danger {
+  color: red;
+  font-size: 12px;
+}
+
+.formRow input, .formRow textarea, .formRow select {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+.formRow input[type="checkbox"] {
+    width: 18px;
+    padding: 0;
+    margin-top: 0;
+    justify: left;
+}
+
+.checkboxContainer {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    gap: 2px; /* Add some spacing between the checkbox and the text */
+}
+
+.formRow select {
+  appearance: none;
+}
+
+.center {
+  text-align: center;
+}
+
+.spacey {
+  margin-right: 10px;
+  line-height: 0;
+}
+
+.marginTop {
+  margin-top: 30px;
+}
+
+.tcList {
+  list-style-type: decimal;
+  margin-left: 20px;
+}
+
+.tcList li {
+  margin-bottom: 15px;
+}
+
+.tcList ul {
+  list-style-type: none;
+}
+
+.tcList ul li {
+  margin-bottom: 10px;
+}
+
+.modal-header, .modal-footer {
+  background-color: #f8f9fa;
+}
+
+.modal-title {
+  font-size: 24px;
+}
+
+.modal-body {
+  font-size: 14px;
+}
+
+.bigPrice {
+  font-size: 30px;
+}
+
+.bigSpacer {
+  height: 400px;
+}
+
+.thanksWrapper {
+  text-align: center;
+  margin: 0 auto;
+  width: 1440px;
+  margin-bottom: 50px;
+}
+
+.thanksH1 {
+  font-size: 38px;
+  color: #303433 !important;
+}
+
+.thanksH4 {
+  font-family: "SpaceGrotesk-Bold", sans-serif;
+  font-size: 28px;
+  color: #303433 !important;
+  padding: 20px;
+}
+
+.thanksP {
+  line-height: 28px;
+}
+
+.phoneLink {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.bookingSubHeader {
+  color: #818181;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+
+.bookingSmallSubHeader {
+  color: #818181;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.propertyData {
+  padding-top: 40px;
+  padding-left: 40px;
+}
+
+.propertySubData {
+  padding-top: 20px;
+  padding-left: 40px;
+  padding-bottom: 20px;
+}
+
+.propertySubDataRight {
+  padding-top: 20px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+}
+
+.propertyData h4 {
+  font-size: 25px;
+  font-weight: lighter;
+}
+
+.propertySubData h5 {
+  font-size: 20px;
+  line-height: 2rem;
+  color: #818181;
+}
+
+.propertySubDataRight h5 {
+  font-size: 20px;
+  line-height: 2rem;
+  color: #818181;
+  text-align: right;
+  /* padding-top: 20px; */
+  padding-right: 40px;
+}
+
+.propertySubData p {
+  font-size: 16px;
+  color:#818181;
+}
+
+.bolder {
+  font-weight: bolder;
+}
+
+.gap {
+  height: 80px;
+}
+
+.cardSurround {
+  border: 1px solid lightgrey;
+  height: 20px;
+  padding-top: 14px;
+  padding-bottom: 26px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 10px;
+}
+
+.tempSpacer {
+  height: 40px;
+}
+
+.greyLine {
+  color: grey;
+}
+
+.ccList {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.midMessage {
+  padding-top: 8px;
+  padding-left: 8px;
+}
+
+.bookingHeading {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.bookingSubHeading {
+  margin-bottom: 40px;
+}
+
+.thanksMessage {
+  margin-bottom: 40px;
+}
+
+.iconRow {
+  padding-top: 30px;
+}
+
+.leftHandBookingCol {
+  border: 1px solid lightgrey;
+  margin-right: 20px;
+  border-radius: 5%;
+  padding: 40px;
+}
+
+@media (max-width: 768px) {
+  .colRightCol {
+    order: 1; /* Moves the property section above */
+  }
+  .colLeftCol {
+    order: 2; /* Moves the form below */
+  }
+}

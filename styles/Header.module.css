@@ -1,0 +1,17 @@
+/* Header styles */
+
+.title {
+    text-align: center;
+    font-size: 2rem;
+    color: #9b3729;
+    margin-bottom: 20px;
+}
+
+@media only screen and (max-width: 900px) {
+    .title {
+        text-align: center;
+        font-size: 1em;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+  }

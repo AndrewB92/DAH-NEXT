@@ -1,0 +1,3260 @@
+[
+  {
+    "_id": "605b20004495ab002fc1dd79",
+    "title": "The Edges Sandyford Dublin",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Blackthorn Rd, Sandyford, Dublin, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/qvasdpi3w6cbnemqoaxr?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/qvasdpi3w6cbnemqoaxr.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/qvasdpi3w6cbnemqoaxr?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/meakktvlyx3d6zojxkzk.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/meakktvlyx3d6zojxkzk?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/slxzkralsvk69nzwfgrb.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/slxzkralsvk69nzwfgrb?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/pz0dbly6qxdnqatwkchf.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/pz0dbly6qxdnqatwkchf?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/n1yi00fljdpninbmugby.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/n1yi00fljdpninbmugby?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/r1whviu7gouxibwhlefj.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/r1whviu7gouxibwhlefj?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/a5lby17gfs2xz2xljijf.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/a5lby17gfs2xz2xljijf?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/gsqns1y6q07m0o9kx56v.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/gsqns1y6q07m0o9kx56v?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/j26vimcckwuprmmdtyu9.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/j26vimcckwuprmmdtyu9?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/pg4xcpgx3vf02bizh1t0.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/pg4xcpgx3vf02bizh1t0?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/yqkbwgyfyrr7cia94iev.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/yqkbwgyfyrr7cia94iev?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/vlbyj33oy7szfomyzmvp.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/vlbyj33oy7szfomyzmvp?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/xnhmmrpkkqtolth7huwr.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/xnhmmrpkkqtolth7huwr?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/lspskmfglmkjlaj5fwqm.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/lspskmfglmkjlaj5fwqm?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/owjtfmawifqkiulckvue.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/owjtfmawifqkiulckvue?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/fzsyvkqlkhft924b1zq3.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/fzsyvkqlkhft924b1zq3?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042968/gb5lmayqdakmbzklh4bp.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/gb5lmayqdakmbzklh4bp?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 170
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "This spacious, luxury apartment is located in the vibrant Beacon South Quarter, in South County Dublin. Each apartment within The Edges boasts a modern yet comforting and homely atmosphere, as well as a gorgeous city view. With plenty of top-notch facilities, from the fully-equipped kitchen to the flatscreen TV and marble flooring, this apartment provides the perfect place to work, relax, and live in style."
+    }
+  },
+  {
+    "_id": "605b2008bacc3c002f559695",
+    "title": "Grande Central Sandyford",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Grande Central Rockbrook, Dublin, D Sandyford Dublin 18, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/r4holujsamvd1oaceuow?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/r4holujsamvd1oaceuow.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/r4holujsamvd1oaceuow?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/wh4ns3nbichdjrzenikv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/wh4ns3nbichdjrzenikv?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/hhbsrrlwgctm2r0ticqi.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/hhbsrrlwgctm2r0ticqi?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042958/bdbu36pwgsbrigub624j.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/bdbu36pwgsbrigub624j?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/mohdztd5j2hhkhnfdqt5.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/mohdztd5j2hhkhnfdqt5?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/xzrhmdhsz6kbtiq4mtun.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/xzrhmdhsz6kbtiq4mtun?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/ago4ry5utdt3ihkllhdd.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ago4ry5utdt3ihkllhdd?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/nqf6ntxqyyp64m8uucmr.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/nqf6ntxqyyp64m8uucmr?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/oyytfamagtwfe2brtufb.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/oyytfamagtwfe2brtufb?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/wam7mm5hg8tyrlsa9n8l.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/wam7mm5hg8tyrlsa9n8l?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/tuapywgzb8hgcrs6xn5p.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/tuapywgzb8hgcrs6xn5p?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/dfz0z8j1wjdhrrwpffni.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/dfz0z8j1wjdhrrwpffni?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/aphstv987mo9psan9clu.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/aphstv987mo9psan9clu?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/qldmai9poixcxmxkqwus.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/qldmai9poixcxmxkqwus?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/o4fr9oumrcz1rrtn0zub.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/o4fr9oumrcz1rrtn0zub?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/ddowogazsyjwxmo3l5lz.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ddowogazsyjwxmo3l5lz?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/asbmsoop01y0f4ofajfs.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/asbmsoop01y0f4ofajfs?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/jcqcznkac4ksnyh9dubl.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/jcqcznkac4ksnyh9dubl?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/pyocsfnvcgaobmggivnv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/pyocsfnvcgaobmggivnv?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/nwcoahbg6tvj9zvgyunq.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/nwcoahbg6tvj9zvgyunq?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/xzkxra6sgmjl3n9lyrih.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/xzkxra6sgmjl3n9lyrih?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/cip7tmukch8ttco1h7n1.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/cip7tmukch8ttco1h7n1?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/uurwuhc7f1f2ff4qdirr.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/uurwuhc7f1f2ff4qdirr?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/bwlctln1h0tueieqrthw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/bwlctln1h0tueieqrthw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/uxi9fl9lddczsgqqtyln.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/uxi9fl9lddczsgqqtyln?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/hq0otm5aa8pct2qll0vv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/hq0otm5aa8pct2qll0vv?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/ikwlyyg5jl9joke83at6.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ikwlyyg5jl9joke83at6?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/vylo7xnr4d8idpof6ifv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/vylo7xnr4d8idpof6ifv?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/fkh658mmbfcdijhi0dv6.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/fkh658mmbfcdijhi0dv6?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/eyvrpqisial08x9et81m.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/eyvrpqisial08x9et81m?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/op2hysmvdnzdkudop46z.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/op2hysmvdnzdkudop46z?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/wiqgamd9vqhyh7xrevcv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/wiqgamd9vqhyh7xrevcv?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/lejt6bp3rfltih4ydjl7.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/lejt6bp3rfltih4ydjl7?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/yv59m22dl6cwnrcqvn3p.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/yv59m22dl6cwnrcqvn3p?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/ptk1moafnicmlb9vrh2j.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ptk1moafnicmlb9vrh2j?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/yllnkygqbscmfajj28c7.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/yllnkygqbscmfajj28c7?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/jnhiil43w1zalq2diesp.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/jnhiil43w1zalq2diesp?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/dpz3ancbwpzdvqhctnj9.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/dpz3ancbwpzdvqhctnj9?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/ngswncqceagrarzqppq9.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ngswncqceagrarzqppq9?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/orfazkxtay2bizuwla8j.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/orfazkxtay2bizuwla8j?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/t2elma4krj0m5ly2bemn.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/t2elma4krj0m5ly2bemn?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/ay760gzrh0br6sfpiurw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ay760gzrh0br6sfpiurw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/mbpoyalcz3cvuy9lgnxk.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/mbpoyalcz3cvuy9lgnxk?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/smwwvcoaszbeakhxrd9n.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/smwwvcoaszbeakhxrd9n?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042959/mqx3favhigztyfqmxieb.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/mqx3favhigztyfqmxieb?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/veckid0qsazahyjspwmq.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/veckid0qsazahyjspwmq?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/jceui71j6zbmxzvslpkl.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/jceui71j6zbmxzvslpkl?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/cbmytkpqnalkccfakqw7.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/cbmytkpqnalkccfakqw7?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042956/afnvmdod0torvewen3vx.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/afnvmdod0torvewen3vx?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042957/hv9oqfgoy7ngbegq1sal.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/hv9oqfgoy7ngbegq1sal?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 170
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "Luxury apartments located on the border of Sandyford/Stillorgan right across the road from the Stillorgan Luas (tram) stop. Each apartment is designed with modern living in mind, boasting spacious and stylish interiors. The large, comfortable living/dining area is perfect for both relaxing and entertaining, featuring a bright, modern kitchen that is fully equipped to meet all your culinary needs. The apartments offer two very comfortable bedrooms: the main bedroom is a double with its own ensuite bathroom, ensuring privacy and convenience, while the second bedroom is a twin room, ideal for guests or family members. Additionally, there is a well-appointed main guest bathroom, enhancing the overall functionality and comfort of the living space.\n\nThe accommodation is just 20 minutes to the city centre by either car or tram. A car is not essential as the tram is just across the road - one minute walk. Take the hassle free way to town using the tram.\n\nWithin a few minutes walk of the apartments there are two supermarkets, Dunnes Stores and Aldi. There is a Starbucks coffee shop and  pizzeria all within walking distance. There is a range of eateries ranging close by ranging from Michelin level dining to local pubs and takeout options, \n\nOur Duty Manager is available for any questions you might have during your stay.  Guests are left to get on and enjoy their stay but we are on hand when needed.\n\nThis apartment is right in the heart of Sandyford. It is ideally located for any corporate bookings required in this area. Also very suitable for leisure breaks."
+    }
+  },
+  {
+    "_id": "605b20117d8dad002db5bdc7",
+    "title": "The Forum Sandyford Dublin",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "82 The Forum Ballymoss Road, Dublin, D Dublin 18, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/rhiopcngoavcaye5ufg5?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/rhiopcngoavcaye5ufg5.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/rhiopcngoavcaye5ufg5?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/sdgwnrktibhj3dc029gd.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/sdgwnrktibhj3dc029gd?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/opa8wprs6jol7xypfqlp.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/opa8wprs6jol7xypfqlp?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/auiryxo3enn6giewrsgj.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/auiryxo3enn6giewrsgj?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/hzyxvvhccj3vg92zwbp9.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/hzyxvvhccj3vg92zwbp9?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/vufqqynzpytjfhbzx4el.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/vufqqynzpytjfhbzx4el?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/swc9ftn4r9b7mcfqhmby.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/swc9ftn4r9b7mcfqhmby?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/ralorjfje9xwaowejueq.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ralorjfje9xwaowejueq?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/zdyskftd0td2ezka96kj.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zdyskftd0td2ezka96kj?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/kl8ja3irolgqtc8ry4hh.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/kl8ja3irolgqtc8ry4hh?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/mwpypolbzraxy6fbu7pk.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/mwpypolbzraxy6fbu7pk?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042986/lk15dynarnzoiltgqhjn.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/lk15dynarnzoiltgqhjn?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042985/uwamvk3kgh2leyyxishv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/uwamvk3kgh2leyyxishv?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 170
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 5,
+    "publicDescription": {
+      "summary": "The Forum self catering apartments in Sandyford Dublin offer corporate & leisure guests the perfect place to stay. Ideal for corporate or short term lettings in Dublin they are an ideal alternative to a traditional hotel bedroom offering space, comfort and convenience. They are also ideal as a vacation rental in Dublin Ireland. Located in Sandyford, alongside the M50 motorway and the Sandyford Business Park, this location is very convenient for visiting Dublin City. Located just 2 minutes walk from the Stillorgan Stop on the tram line - which will take you into Dublin City in just 20 minutes. Dundrum Shopping Centre, which is the largest shopping centre in Europe, is just 5 minutes by tram. Here there is an array of shops, restaurants, cinemas and pubs for you to enjoy. \r\n\r\nThe Forum self catering apartments in Sandyford Dublin offer corporate & leisure guests the perfect place to stay. Ideal for corporate or short term lettings in Dublin they are an ideal alternative to a traditional hotel bedroom offering space, comfort and convenience. They are also ideal as a vacation rental in Dublin Ireland. Located in Sandyford, alongside the M50 motorway and the Sandyford Business Park, this location is very convenient for visiting Dublin City. Located just 2 minutes walk from the Stillorgan Stop on the tram line - which will take you into Dublin City in just 20 minutes. Dundrum Shopping Centre, which is the largest shopping centre in Europe, is just 5 minutes by tram. Here there is an array of shops, restaurants, cinemas and pubs for you to enjoy. "
+    }
+  },
+  {
+    "_id": "605b2020bacc3c002f55a198",
+    "title": "Kelston Avenue Foxrock",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Kelston Ave, Newpark, Dublin, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/v7kb2ki2qbqhedppqtgf?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/v7kb2ki2qbqhedppqtgf.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/v7kb2ki2qbqhedppqtgf?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/spv22pxeipfltdv4iifq.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/spv22pxeipfltdv4iifq?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/sqjscxogvg2xrrvmseil.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/sqjscxogvg2xrrvmseil?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/zx1wwfulv33s13i86yqg.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zx1wwfulv33s13i86yqg?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/fx8sftisjk2xpg02qtqw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/fx8sftisjk2xpg02qtqw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/menzv5igw2ayk5hxdr7t.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/menzv5igw2ayk5hxdr7t?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/nygpgytuojogltib1yff.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/nygpgytuojogltib1yff?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/oixeg7qyomzlyh6huah3.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/oixeg7qyomzlyh6huah3?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/uu8xsnvd7frnchkv5jka.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/uu8xsnvd7frnchkv5jka?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/cihrwbonmfaag3hmjien.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/cihrwbonmfaag3hmjien?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/kgxjygo7cjo7biycsazg.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/kgxjygo7cjo7biycsazg?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/u3ftylbx3tak8cmytrpf.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/u3ftylbx3tak8cmytrpf?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/hii2rmevpyrbajvebxlc.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/hii2rmevpyrbajvebxlc?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/hybvgqytpddprdpkdr6r.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/hybvgqytpddprdpkdr6r?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/gviazvqjr4zq9cgntbr4.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/gviazvqjr4zq9cgntbr4?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/fqfbjn59qiiqv3ivl5wm.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/fqfbjn59qiiqv3ivl5wm?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/u9meinswgu565a4szd2v.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/u9meinswgu565a4szd2v?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/f4lfxbejkigv3qpyq6ad.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/f4lfxbejkigv3qpyq6ad?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/st5reslvmumooyvsravn.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/st5reslvmumooyvsravn?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/y1xbrkiblunmrzwvl3si.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/y1xbrkiblunmrzwvl3si?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/twzcc9yxlbgvjxg0impo.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/twzcc9yxlbgvjxg0impo?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/nxdmqhtwhy1ea6e2efox.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/nxdmqhtwhy1ea6e2efox?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/dymqodsw7eeifsjeymo9.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/dymqodsw7eeifsjeymo9?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/z3irtvz47imj8234kd1m.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/z3irtvz47imj8234kd1m?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/twqcgzhph6cncc6gvaug.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/twqcgzhph6cncc6gvaug?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/hjrkotuwpqyxdfiqrlow.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/hjrkotuwpqyxdfiqrlow?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/egjmmwvtqk3jwwkhutfw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/egjmmwvtqk3jwwkhutfw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042952/avyv46cthbs5su2ok71z.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/avyv46cthbs5su2ok71z?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042951/cudioacimouoixkceetn.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/cudioacimouoixkceetn?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 170
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "Magnificent two bedroom, two bathroom apartment with own front door.\r\n\r\nThe large living space includes comforatble seating area with multi-channel TV, high speed Wi-Fi and a dining area.\r\n\r\nThe modern kitchen comes fully equipped and offers spacious worktop space and storage. All modern conveniences are supplied.\r\n\r\nThe large utility room contains a washer/dryer.\r\n\r\nEach of the bedrooms is ensuite.\r\n\r\nBedroom one has a queen sized bed while bedroom two has two single beds."
+    }
+  },
+  {
+    "_id": "605b20297d8dad002db5c6e0",
+    "title": "Ferncourt Stepaside",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Ferncourt, Stepaside Park, Leopardstown, Jamestown, Dublin, Co. Dublin, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/jvzgt92pcq3mbfznzwdf?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/jvzgt92pcq3mbfznzwdf.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/jvzgt92pcq3mbfznzwdf?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042964/lvpnhahkzj638me7hdju.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/lvpnhahkzj638me7hdju?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/ojklpzruqavbeyvc711w.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ojklpzruqavbeyvc711w?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/putuny3qcbefvtxngyk5.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/putuny3qcbefvtxngyk5?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/xytlippuxfmcz1ehob1s.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/xytlippuxfmcz1ehob1s?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/jeabh655ud0kal7rpayw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/jeabh655ud0kal7rpayw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/fbabyytk4dfuaimdzkll.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/fbabyytk4dfuaimdzkll?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/yc3bdsfjjlztjw6wc3zr.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/yc3bdsfjjlztjw6wc3zr?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/uvbdribrggbzzhl5xyc3.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/uvbdribrggbzzhl5xyc3?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042964/aigbiubjtqgeuv89tkyi.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/aigbiubjtqgeuv89tkyi?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/cdmnhooqyuqzck0mbdpd.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/cdmnhooqyuqzck0mbdpd?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042964/gvprgg8aycdyeznpqfra.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/gvprgg8aycdyeznpqfra?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/zvzdmfbutwvnbzjy1gct.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zvzdmfbutwvnbzjy1gct?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/mumxglqpvbwdtdjwxd3d.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/mumxglqpvbwdtdjwxd3d?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/ucnoxzrgzhhkh9qyaerm.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ucnoxzrgzhhkh9qyaerm?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/sdobfsfs8dutm7iq9fwg.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/sdobfsfs8dutm7iq9fwg?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/cnnstgkqxvaz3j7soqfj.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/cnnstgkqxvaz3j7soqfj?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/btek02jwky8ihikpke3h.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/btek02jwky8ihikpke3h?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/caqcma4logodbgwhlizo.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/caqcma4logodbgwhlizo?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042964/zx5olztebimgkdszdoig.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zx5olztebimgkdszdoig?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/t9wqbnqrzkhwbv90sv4j.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/t9wqbnqrzkhwbv90sv4j?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/ypachc7l1tnxxjhxrlui.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ypachc7l1tnxxjhxrlui?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/q0f0kwgv9ezc3pu7gnqz.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/q0f0kwgv9ezc3pu7gnqz?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/rusj6ij7nvwgkkkttbd4.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/rusj6ij7nvwgkkkttbd4?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/tbyzg8inoij6gqjpeciw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/tbyzg8inoij6gqjpeciw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/xohnm4bj2f13stdu9tor.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/xohnm4bj2f13stdu9tor?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/ja1luvwevv1q7vpnxhhy.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ja1luvwevv1q7vpnxhhy?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/b3rni9ynv8jc1xfgt0dg.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/b3rni9ynv8jc1xfgt0dg?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/cgo6kneenyzcb9f6qz9v.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/cgo6kneenyzcb9f6qz9v?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/yfruuq6wjbi3yvsw4eyi.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/yfruuq6wjbi3yvsw4eyi?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/ro4dysqqlq4rfayulq41.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ro4dysqqlq4rfayulq41?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042963/sml6rphjmikkvaocmbtz.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/sml6rphjmikkvaocmbtz?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 165
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "Ferncourt is luxury, contemporary accommodation at its finest and most convenient. Surrounded by nature, the home provides the means to lead a tranquil way of life. Access to Dublin City Centre, along with many local business hubs within the county mean that wherever you work, Ferncourt is the place for you."
+    }
+  },
+  {
+    "_id": "605b20634495ab002fc1f7c6",
+    "title": "Holywell Way Swords",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Holywell Way, Drinan, Swords, Co. Dublin, Ireland",
+      "city": "Swords"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ojdygskyzlkzi1julwql?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/ojdygskyzlkzi1julwql.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ojdygskyzlkzi1julwql?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042973/l8dah2sbafuro0h1eqsp.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/l8dah2sbafuro0h1eqsp?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/a84brs9llai4gnea5gfw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/a84brs9llai4gnea5gfw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/xasoqonikgcirotigexj.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/xasoqonikgcirotigexj?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/horjs87kxyylz75mbaqw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/horjs87kxyylz75mbaqw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/lqqyy6mn8gmwhttvyttv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/lqqyy6mn8gmwhttvyttv?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042973/x06px7cn8g1ay44hzqt0.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/x06px7cn8g1ay44hzqt0?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042974/xc1ynlk5yfazuftr6gsk.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/xc1ynlk5yfazuftr6gsk?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/d5ajqxjrioj9w5naesqv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/d5ajqxjrioj9w5naesqv?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042973/crfohewooaasdd2hu9qq.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/crfohewooaasdd2hu9qq?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/o4yunwb6gx9fjgyvaw9q.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/o4yunwb6gx9fjgyvaw9q?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/nuxsrk0ob7mwvetbmrqi.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/nuxsrk0ob7mwvetbmrqi?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/vufc3hxepfdo4lwnatgx.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/vufc3hxepfdo4lwnatgx?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042974/egs60xmmsa4mzv68cnxz.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/egs60xmmsa4mzv68cnxz?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/he9c0uvcoc64mtbq5ydv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/he9c0uvcoc64mtbq5ydv?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042973/c2m6ch6pwtmiqkgwhwwj.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/c2m6ch6pwtmiqkgwhwwj?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/jubylwjqy7v6plbqexgc.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/jubylwjqy7v6plbqexgc?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/h8hsr9k4zkog1uzrtcub.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/h8hsr9k4zkog1uzrtcub?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042973/hhwu3nmong6cc4un3w9i.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/hhwu3nmong6cc4un3w9i?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/zyy83hqqrwfqpdum9ghk.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zyy83hqqrwfqpdum9ghk?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042973/v97giqcnitnjkk6pxean.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/v97giqcnitnjkk6pxean?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042973/cxhtlwa9yjc89jl0czeh.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/cxhtlwa9yjc89jl0czeh?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/bu97s1ef5tdyprguqfq5.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/bu97s1ef5tdyprguqfq5?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042972/n0ytfovqzyz25lpu2p2m.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/n0ytfovqzyz25lpu2p2m?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 155
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "This unique, modern apartment is located in the peaceful, private suburbs of Holywell, Swords. Surrounded by parks, your stay here will be relaxing and steeped in nature. Close to the airport and the city centre both, everything you could possibly need is right at your fingertips, from stunning natural vistas to the bustle of city living."
+    }
+  },
+  {
+    "_id": "605b209a7d8dad002db5e7f0",
+    "title": "The Grange",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Brewery Road, Co Dublin Dublin, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/g2sqvvsrhpywcprqcd77?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042941/g2sqvvsrhpywcprqcd77.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/g2sqvvsrhpywcprqcd77?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042940/xdtssddphkcuthzim3nc.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/xdtssddphkcuthzim3nc?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042940/reabin5wyjl6xrijct1o.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/reabin5wyjl6xrijct1o?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042941/eiejehz4bosfgw3p7h3q.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/eiejehz4bosfgw3p7h3q?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042940/s6ca8oru58ah0fp6pawf.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/s6ca8oru58ah0fp6pawf?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042940/jswzbmlxcfs0h1bxnxnp.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/jswzbmlxcfs0h1bxnxnp?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042940/qwlhlymx9v1iq9tit5kw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/qwlhlymx9v1iq9tit5kw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042940/acbaiodouy0zcrg9wfap.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/acbaiodouy0zcrg9wfap?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042942/durfwieqnkoeicllvlij.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/durfwieqnkoeicllvlij?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042940/ctm3ad4h9obixvr0eeal.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ctm3ad4h9obixvr0eeal?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042940/kyrhrzpyght5b9qao4ww.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/kyrhrzpyght5b9qao4ww?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042940/kk2oubjmj3penlnivhxx.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/kk2oubjmj3penlnivhxx?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042940/pguwhep7thnpgbxgut7t.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/pguwhep7thnpgbxgut7t?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714042940/zurqjnv9xbmah2poaykg.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zurqjnv9xbmah2poaykg?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 170
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "Newly refurbished ground floor apartment located in Blackrock/Stillorgan. There are two good sized double rooms one of which is ensuite. There is a large open plan living/dining area with fully equipped modern kitchen.\r\n\r\nThe modern fully equipped kitchen comes with all appliances expected in a quality apartment rental. The living area has plenty of space and benefits from a lovely deck area off it. There is multi-channel satelite TV and highspeed internet.\r\n\r\nUnderground heating adds to the overall comfort and atmosphere within this lovely accommodation.\r\n\r\nAccess to the city is very straight forward with the N11 bus corridor just minutes walk from the apartment. The city can be accessed within 20 minutes or less depending on traffic.\r\n\r\nBoth Sandyford and Blackrock business districts are all within an easy commute."
+    }
+  },
+  {
+    "_id": "6091b66d50d810002dcff494",
+    "title": "The Forum",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Ballymoss Road, D18 Dublin 18, Ireland",
+      "city": "Dublin 18"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/dpy5k1fbc1sm4z2hp6ei?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043041/dpy5k1fbc1sm4z2hp6ei.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/dpy5k1fbc1sm4z2hp6ei?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/wsgs96dzl5ttqdwsvybh.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/wsgs96dzl5ttqdwsvybh?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/ocqjwrj8tttfghixaggy.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ocqjwrj8tttfghixaggy?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/eazlhaf7lz2u97oyiiaa.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/eazlhaf7lz2u97oyiiaa?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/ky3nt2cghzegmmgmt1e7.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ky3nt2cghzegmmgmt1e7?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/zmiswjmfif1cvlgatte5.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zmiswjmfif1cvlgatte5?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/qk5uuw8qrxymlzap9fko.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/qk5uuw8qrxymlzap9fko?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/wptotqwm2yslm15qir0k.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/wptotqwm2yslm15qir0k?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/p6mul6pkfkugpzhrdvjr.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/p6mul6pkfkugpzhrdvjr?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/aewucslji3rrkplsp2bm.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/aewucslji3rrkplsp2bm?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/kss9cnyitoqvxvf0qhus.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/kss9cnyitoqvxvf0qhus?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/ksmkrvifdgpwfx5qf6j5.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ksmkrvifdgpwfx5qf6j5?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/h8ltlbxfhaegeweim5ui.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/h8ltlbxfhaegeweim5ui?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/vvsfwqtcx8c0d92aswnz.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/vvsfwqtcx8c0d92aswnz?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/b2odmimkam5xek5zrey5.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/b2odmimkam5xek5zrey5?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043043/jdc8tmvgntzto91lgdsz.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/jdc8tmvgntzto91lgdsz?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/phabvknd4pytvx02xfwe.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/phabvknd4pytvx02xfwe?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/oww4kz44rmz2kgif0stx.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/oww4kz44rmz2kgif0stx?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/fpfqhmulscvwybtaa262.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/fpfqhmulscvwybtaa262?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043041/b7wrcukbkln5afwg4xie.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/b7wrcukbkln5afwg4xie?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/kbcj6uehgbnhtczzscuj.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/kbcj6uehgbnhtczzscuj?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/ct5ahv4q9fo4uerlva3h.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ct5ahv4q9fo4uerlva3h?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/ka4bvb3idh9rzcwau9ec.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ka4bvb3idh9rzcwau9ec?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/lpqcjpjuvwlcqfplpzhv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/lpqcjpjuvwlcqfplpzhv?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043041/bq8zvi2oi522vfpgaihe.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/bq8zvi2oi522vfpgaihe?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/nh2prqmp4hor74onks6n.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/nh2prqmp4hor74onks6n?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043042/m7b4vsdgeffmzgv045ql.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/m7b4vsdgeffmzgv045ql?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 170
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 5,
+    "publicDescription": {
+      "summary": "The Forum self catering apartments in Sandyford Dublin offer corporate & leisure guests the perfect place to stay. Ideal for corporate or short term lettings in Dublin they are an ideal alternative to a traditional hotel bedroom offering space, comfort and convenience. They are also ideal as a vacation rental in Dublin Ireland. Located in Sandyford, alongside the M50 motorway and the Sandyford Business Park, this location is very convenient for visiting Dublin City. Located just 2 minutes walk from the Stillorgan Stop on the tram line - which will take you into Dublin City in just 20 minutes. Dundrum Shopping Centre, which is the largest shopping centre in Europe, is just 5 minutes by tram. Here there is an array of shops, restaurants, cinemas and pubs for you to enjoy."
+    }
+  },
+  {
+    "_id": "613c74596df87000300e28db",
+    "title": "Fernbank by Dublin At Home",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Fernbank, Churchtown Rd Upper, Churchtown Lower, Dublin 14, Ireland D14 TW70",
+      "city": "Dublin 14"
+    },
+    "picture": {
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273441/production/6051f000c60c59002ca9341d/kbokf8oxyibt0dhwblhg.jpg"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273441/production/6051f000c60c59002ca9341d/kbokf8oxyibt0dhwblhg.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273441/production/6051f000c60c59002ca9341d/kbokf8oxyibt0dhwblhg.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110203/production/6051f000c60c59002ca9341d/rhtftklevxjkhavifx4a.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110203/production/6051f000c60c59002ca9341d/rhtftklevxjkhavifx4a.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110120/production/6051f000c60c59002ca9341d/ljbyjyos8ujftz2doflf.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110120/production/6051f000c60c59002ca9341d/ljbyjyos8ujftz2doflf.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273432/production/6051f000c60c59002ca9341d/ns2deuz0vkt9r4gihtat.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273432/production/6051f000c60c59002ca9341d/ns2deuz0vkt9r4gihtat.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110202/production/6051f000c60c59002ca9341d/onjwz256zfpt5b6gvegl.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110202/production/6051f000c60c59002ca9341d/onjwz256zfpt5b6gvegl.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110213/production/6051f000c60c59002ca9341d/ug8rflcakystig4uso1b.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110213/production/6051f000c60c59002ca9341d/ug8rflcakystig4uso1b.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110200/production/6051f000c60c59002ca9341d/a93t9ttzcmwsre3asald.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110200/production/6051f000c60c59002ca9341d/a93t9ttzcmwsre3asald.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110197/production/6051f000c60c59002ca9341d/iyepjcbxlpe4ob7fpowh.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110197/production/6051f000c60c59002ca9341d/iyepjcbxlpe4ob7fpowh.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273445/production/6051f000c60c59002ca9341d/cz5msfcjvz8fhb61dntl.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273445/production/6051f000c60c59002ca9341d/cz5msfcjvz8fhb61dntl.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110168/production/6051f000c60c59002ca9341d/vptsalxnsizljag6ek5z.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110168/production/6051f000c60c59002ca9341d/vptsalxnsizljag6ek5z.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110273/production/6051f000c60c59002ca9341d/tnwyhuiqftn4ihz5xlxj.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110273/production/6051f000c60c59002ca9341d/tnwyhuiqftn4ihz5xlxj.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110231/production/6051f000c60c59002ca9341d/i7l0whfthgu2v5shqb6r.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110231/production/6051f000c60c59002ca9341d/i7l0whfthgu2v5shqb6r.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273451/production/6051f000c60c59002ca9341d/kcbfm2tplv4dquga0b4z.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273451/production/6051f000c60c59002ca9341d/kcbfm2tplv4dquga0b4z.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110252/production/6051f000c60c59002ca9341d/dtmnur8dhcyn6pni3pcw.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110252/production/6051f000c60c59002ca9341d/dtmnur8dhcyn6pni3pcw.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110261/production/6051f000c60c59002ca9341d/tlhzv4xfkvicam8rqm1l.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110261/production/6051f000c60c59002ca9341d/tlhzv4xfkvicam8rqm1l.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110308/production/6051f000c60c59002ca9341d/y7g0co7uamjvg6lyivvs.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110308/production/6051f000c60c59002ca9341d/y7g0co7uamjvg6lyivvs.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110304/production/6051f000c60c59002ca9341d/wbp6h2j1faqeqerxeoic.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110304/production/6051f000c60c59002ca9341d/wbp6h2j1faqeqerxeoic.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110319/production/6051f000c60c59002ca9341d/hhrq7bbvwfz2gaqojbyo.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110319/production/6051f000c60c59002ca9341d/hhrq7bbvwfz2gaqojbyo.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673286726/production/6051f000c60c59002ca9341d/awqka9n1zkyag8u8tcug.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673286726/production/6051f000c60c59002ca9341d/awqka9n1zkyag8u8tcug.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673286722/production/6051f000c60c59002ca9341d/razpy3gf2ciafepyorxr.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673286722/production/6051f000c60c59002ca9341d/razpy3gf2ciafepyorxr.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110338/production/6051f000c60c59002ca9341d/ndd2leetjdlpnnx8mpep.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110338/production/6051f000c60c59002ca9341d/ndd2leetjdlpnnx8mpep.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673286730/production/6051f000c60c59002ca9341d/beprg2wavawshobluvml.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673286730/production/6051f000c60c59002ca9341d/beprg2wavawshobluvml.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110332/production/6051f000c60c59002ca9341d/ifqobpmiyg9dsefmfste.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110332/production/6051f000c60c59002ca9341d/ifqobpmiyg9dsefmfste.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273436/production/6051f000c60c59002ca9341d/dk4twigwfnwtuoup8gaw.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273436/production/6051f000c60c59002ca9341d/dk4twigwfnwtuoup8gaw.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273448/production/6051f000c60c59002ca9341d/yznsdouftebkuxscifqx.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273448/production/6051f000c60c59002ca9341d/yznsdouftebkuxscifqx.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273447/production/6051f000c60c59002ca9341d/lxci3xcjz8blpyrkoswq.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273447/production/6051f000c60c59002ca9341d/lxci3xcjz8blpyrkoswq.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273448/production/6051f000c60c59002ca9341d/gz77ci2qhngeofbhd5rm.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273448/production/6051f000c60c59002ca9341d/gz77ci2qhngeofbhd5rm.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273459/production/6051f000c60c59002ca9341d/jiyk0u7v6gzmhbfxoqzw.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273459/production/6051f000c60c59002ca9341d/jiyk0u7v6gzmhbfxoqzw.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273463/production/6051f000c60c59002ca9341d/qf533k7vz3hmrgsnforu.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273463/production/6051f000c60c59002ca9341d/qf533k7vz3hmrgsnforu.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273463/production/6051f000c60c59002ca9341d/hogut4eq3zg6huf82dfz.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273463/production/6051f000c60c59002ca9341d/hogut4eq3zg6huf82dfz.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273465/production/6051f000c60c59002ca9341d/q0imh2icgaxqcq19wwwu.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273465/production/6051f000c60c59002ca9341d/q0imh2icgaxqcq19wwwu.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273465/production/6051f000c60c59002ca9341d/usc1xerjb5dmaxjwf8bt.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273465/production/6051f000c60c59002ca9341d/usc1xerjb5dmaxjwf8bt.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673273465/production/6051f000c60c59002ca9341d/onley4t1eesigt3gnkzw.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673273465/production/6051f000c60c59002ca9341d/onley4t1eesigt3gnkzw.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673286726/production/6051f000c60c59002ca9341d/f6seviyyhty7qkf1m13g.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673286726/production/6051f000c60c59002ca9341d/f6seviyyhty7qkf1m13g.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110269/production/6051f000c60c59002ca9341d/qc3wmgwte4ofgwxjeatk.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110269/production/6051f000c60c59002ca9341d/qc3wmgwte4ofgwxjeatk.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673110250/production/6051f000c60c59002ca9341d/cpzglmztm0kvjezjgsko.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673110250/production/6051f000c60c59002ca9341d/cpzglmztm0kvjezjgsko.jpg"
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 175
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "Fernbank offers a stunning collection of luxury apartments, available in one, two, and three-bedroom options, all nestled within beautifully landscaped gardens and courtyards. Located in the charming, tree-lined suburbs of Dublin 14, Churchtown is a quaint village situated just 6 km from St. Stephen’s Green.\n\nThe grounds of Fernbank are enriched with landscaped gardens, ponds, and walkways. Each apartment building boasts its own exclusive courtyard, providing residents with inviting spaces to unwind.\n\nFernbank combines exceptional resident facilities and services to elevate your living experience.\n-\tOn Site Concierge\n-\tPackage Delivery handling and Alert\n-\tDry Cleaning and Laundry Service, at additional charge\n-\tManagement Lounge, with complimentary refreshments and WIFI \n-\tWiredscore certified WIFI ensuring great digital connectivity rating in communal areas.\n-\tOn site Go car rental"
+    }
+  },
+  {
+    "_id": "619bcc326b88b600344e16ec",
+    "title": "Windmill Lane 002",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Windmill Lane,  Dublin, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/c40mdz9ittorzefykl0h?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/c40mdz9ittorzefykl0h.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/c40mdz9ittorzefykl0h?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043081/rbtbiw3z0qjcwlvdx3cw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/rbtbiw3z0qjcwlvdx3cw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043081/ccueykwcgryqqrcl1edb.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ccueykwcgryqqrcl1edb?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/rflj3boxnreiicaa9owl.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/rflj3boxnreiicaa9owl?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/hmq5msdup7v9xpuprknl.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/hmq5msdup7v9xpuprknl?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/myl0q0zolspmwjs7dxdz.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/myl0q0zolspmwjs7dxdz?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043081/vqshop6yljr8ltpvilrf.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/vqshop6yljr8ltpvilrf?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/aqyaf8kwdelkykokskkm.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/aqyaf8kwdelkykokskkm?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043079/rjbxbhn0hhvpextg9sif.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/rjbxbhn0hhvpextg9sif?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043079/wvxnfpfkcwt7atyixgiy.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/wvxnfpfkcwt7atyixgiy?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/fjgfyytmmfefbbir5jsw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/fjgfyytmmfefbbir5jsw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/xivjahynjyolerugzcr1.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/xivjahynjyolerugzcr1?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/fix0hvlnhtgjl0ppbxl1.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/fix0hvlnhtgjl0ppbxl1?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/v8z0xze7ozmrrhrggolq.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/v8z0xze7ozmrrhrggolq?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/tixggn557a4xkybaz6jy.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/tixggn557a4xkybaz6jy?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/gh3rw9jl1lhhr2mgwdpv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/gh3rw9jl1lhhr2mgwdpv?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043081/snj8qzibxj8fzm504ybo.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/snj8qzibxj8fzm504ybo?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043081/nzea4iv5hbqgz81vpekd.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/nzea4iv5hbqgz81vpekd?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/ymsazs55d7tqaqmie787.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ymsazs55d7tqaqmie787?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043079/asnnlecauxweqsendic1.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/asnnlecauxweqsendic1?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043081/omkbwpo78aertx8e3i0c.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/omkbwpo78aertx8e3i0c?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043081/mkyg5zb0z4whlrp9iumc.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/mkyg5zb0z4whlrp9iumc?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043081/kmqwvwaakiaqiwdjona8.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/kmqwvwaakiaqiwdjona8?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/dh5uk9t16gnlxkzgqokf.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/dh5uk9t16gnlxkzgqokf?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043081/lmqrndatyu4jk5s4xjz2.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/lmqrndatyu4jk5s4xjz2?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/xreqzye4nsjoucvyjtsg.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/xreqzye4nsjoucvyjtsg?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043081/izggczvmmqgfdhurl75a.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/izggczvmmqgfdhurl75a?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/agxkvvbmpxu35ert94je.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/agxkvvbmpxu35ert94je?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/vj9mo0ndvkinnhz7lnvl.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/vj9mo0ndvkinnhz7lnvl?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/zdr9cyuwpmrajnjzgu6f.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zdr9cyuwpmrajnjzgu6f?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/nygdmoy18clhvqnm6yjw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/nygdmoy18clhvqnm6yjw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/zzkfznon7lb88din7tu4.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zzkfznon7lb88din7tu4?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/plgvipubgmf85ylxl0kg.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/plgvipubgmf85ylxl0kg?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/lq1os3vttkq7bjxzwujz.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/lq1os3vttkq7bjxzwujz?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/vlexiwtg25eki2gfd1tj.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/vlexiwtg25eki2gfd1tj?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/dnavcapbcbaytmeuhdol.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/dnavcapbcbaytmeuhdol?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/j24hponow5nnbwmpxjd6.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/j24hponow5nnbwmpxjd6?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/aicqbjbl9jkrbgtkwatu.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/aicqbjbl9jkrbgtkwatu?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/josplxkggqnezazzmivl.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/josplxkggqnezazzmivl?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043079/gy797my5cbkypy4rv7a3.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/gy797my5cbkypy4rv7a3?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/h0mtepg15s2gh4x3iuqo.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/h0mtepg15s2gh4x3iuqo?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/nzam44adkujmojrulywr.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/nzam44adkujmojrulywr?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/vtdoi1vgvb95dk0uapsx.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/vtdoi1vgvb95dk0uapsx?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/qhskwnftjedkas1ixp41.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/qhskwnftjedkas1ixp41?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/g23ceyfpqznrrih85vys.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/g23ceyfpqznrrih85vys?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/zvdnxygno33xxasrrne0.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zvdnxygno33xxasrrne0?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043080/fhgcnuyose2mur1rvg9x.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/fhgcnuyose2mur1rvg9x?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043081/yubd6tszg9mdidqsidin.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/yubd6tszg9mdidqsidin?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 185
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "Windmill Lane is the perfect location for business and leisure travellers (minimum stay 14 nights), located, just off Sir John Rogerson's Quay, with easy access to the City Centre. Positioned close to all major offices in the Grand Canal Dock and a short walk to the IFSC, the new Convention Centre and the 3 Arena concert venue , there are a great selection of restaurants, bars and shops and the Grand Canal Theatre only a short walk away. It has direct access to the north side of the city via the Samuel Beckett  bridge."
+    }
+  },
+  {
+    "_id": "626aa0c7bf130e0032473b6a",
+    "title": "Woodward Square by Dublin At Home",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Woodward Avenue, D18 KD9F Dublin, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556643/production/6051f000c60c59002ca9341d/k29yrvt5i53znxhhma2x.jpg"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556643/production/6051f000c60c59002ca9341d/k29yrvt5i53znxhhma2x.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556643/production/6051f000c60c59002ca9341d/k29yrvt5i53znxhhma2x.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556730/production/6051f000c60c59002ca9341d/vzocr3rekmrvgfxu3dls.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556730/production/6051f000c60c59002ca9341d/vzocr3rekmrvgfxu3dls.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556651/production/6051f000c60c59002ca9341d/uiw4ti7vxpmzwzcta6qa.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556651/production/6051f000c60c59002ca9341d/uiw4ti7vxpmzwzcta6qa.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556647/production/6051f000c60c59002ca9341d/vsh3pv7hvc8wf9ocwv3o.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556647/production/6051f000c60c59002ca9341d/vsh3pv7hvc8wf9ocwv3o.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556649/production/6051f000c60c59002ca9341d/zaseizqivtit9zucmxqp.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556649/production/6051f000c60c59002ca9341d/zaseizqivtit9zucmxqp.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556652/production/6051f000c60c59002ca9341d/iudn1rkjpuejpozjydiw.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556652/production/6051f000c60c59002ca9341d/iudn1rkjpuejpozjydiw.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556633/production/6051f000c60c59002ca9341d/lxptpcvrkxjygxtngkro.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556633/production/6051f000c60c59002ca9341d/lxptpcvrkxjygxtngkro.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556648/production/6051f000c60c59002ca9341d/lg9wk7syzwcfwrmkcuto.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556648/production/6051f000c60c59002ca9341d/lg9wk7syzwcfwrmkcuto.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556661/production/6051f000c60c59002ca9341d/l8ejzs1sb2iixztuaolp.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556661/production/6051f000c60c59002ca9341d/l8ejzs1sb2iixztuaolp.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556674/production/6051f000c60c59002ca9341d/ghl9ulb6wj76ogknu6dp.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556674/production/6051f000c60c59002ca9341d/ghl9ulb6wj76ogknu6dp.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556671/production/6051f000c60c59002ca9341d/sbjpria1eoca4vjmxmao.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556671/production/6051f000c60c59002ca9341d/sbjpria1eoca4vjmxmao.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556667/production/6051f000c60c59002ca9341d/zlyhr6fjx6u3wf7j6uaf.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556667/production/6051f000c60c59002ca9341d/zlyhr6fjx6u3wf7j6uaf.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556673/production/6051f000c60c59002ca9341d/eo6nafuxuytb0idof0nr.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556673/production/6051f000c60c59002ca9341d/eo6nafuxuytb0idof0nr.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556671/production/6051f000c60c59002ca9341d/qip4uupzkai7po14h3l3.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556671/production/6051f000c60c59002ca9341d/qip4uupzkai7po14h3l3.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556679/production/6051f000c60c59002ca9341d/n3o7zbcjoc80vbtvzfzd.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556679/production/6051f000c60c59002ca9341d/n3o7zbcjoc80vbtvzfzd.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556697/production/6051f000c60c59002ca9341d/wvyoxtrwr5jhxdtfetbj.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556697/production/6051f000c60c59002ca9341d/wvyoxtrwr5jhxdtfetbj.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556693/production/6051f000c60c59002ca9341d/udvutfermhkxcvkosxzx.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556693/production/6051f000c60c59002ca9341d/udvutfermhkxcvkosxzx.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556696/production/6051f000c60c59002ca9341d/peirm7vcnx53vgt1eyor.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556696/production/6051f000c60c59002ca9341d/peirm7vcnx53vgt1eyor.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556693/production/6051f000c60c59002ca9341d/bxnwz7bxyhrnlyhjusyj.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556693/production/6051f000c60c59002ca9341d/bxnwz7bxyhrnlyhjusyj.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556712/production/6051f000c60c59002ca9341d/oogtdzl4y9wtjhnvdypx.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556712/production/6051f000c60c59002ca9341d/oogtdzl4y9wtjhnvdypx.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556695/production/6051f000c60c59002ca9341d/c5i1vzm0ol50uqbczqrz.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556695/production/6051f000c60c59002ca9341d/c5i1vzm0ol50uqbczqrz.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556703/production/6051f000c60c59002ca9341d/wwdlihucamqosotom4ml.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556703/production/6051f000c60c59002ca9341d/wwdlihucamqosotom4ml.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556714/production/6051f000c60c59002ca9341d/auiivgzfaummg9gbwppr.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556714/production/6051f000c60c59002ca9341d/auiivgzfaummg9gbwppr.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556713/production/6051f000c60c59002ca9341d/cd2ag7wsdbgx1nwi2fan.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556713/production/6051f000c60c59002ca9341d/cd2ag7wsdbgx1nwi2fan.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556715/production/6051f000c60c59002ca9341d/daubd4mzr4hfcg4d6j03.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556715/production/6051f000c60c59002ca9341d/daubd4mzr4hfcg4d6j03.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556715/production/6051f000c60c59002ca9341d/bvfaby0m38wl1xheu8ky.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556715/production/6051f000c60c59002ca9341d/bvfaby0m38wl1xheu8ky.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556724/production/6051f000c60c59002ca9341d/pncyitppn6ync5a5yte9.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556724/production/6051f000c60c59002ca9341d/pncyitppn6ync5a5yte9.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1651154962/production/6051f000c60c59002ca9341d/ueqxzijwkhpzajdnf3on.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1651154962/production/6051f000c60c59002ca9341d/ueqxzijwkhpzajdnf3on.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673556731/production/6051f000c60c59002ca9341d/crubtctwfpqrrcdlxfve.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673556731/production/6051f000c60c59002ca9341d/crubtctwfpqrrcdlxfve.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673991977/production/6051f000c60c59002ca9341d/arjycdzgn6dxlhielhuf.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673991977/production/6051f000c60c59002ca9341d/arjycdzgn6dxlhielhuf.jpg",
+        "caption": "Common Social Area"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992657/production/6051f000c60c59002ca9341d/l5fyhhrhz2ycow1x6vjq.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992657/production/6051f000c60c59002ca9341d/l5fyhhrhz2ycow1x6vjq.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992655/production/6051f000c60c59002ca9341d/ebln2tc1olrzyqq0bxvi.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992655/production/6051f000c60c59002ca9341d/ebln2tc1olrzyqq0bxvi.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992657/production/6051f000c60c59002ca9341d/opdwynnhnw8c2gjacx0a.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992657/production/6051f000c60c59002ca9341d/opdwynnhnw8c2gjacx0a.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992660/production/6051f000c60c59002ca9341d/j7l9h3i3dhy0zbq1rupw.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992660/production/6051f000c60c59002ca9341d/j7l9h3i3dhy0zbq1rupw.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992661/production/6051f000c60c59002ca9341d/p43gr1bxexclmsltebvm.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992661/production/6051f000c60c59002ca9341d/p43gr1bxexclmsltebvm.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992663/production/6051f000c60c59002ca9341d/fm2jqtpftdtsvuck5vfp.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992663/production/6051f000c60c59002ca9341d/fm2jqtpftdtsvuck5vfp.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992689/production/6051f000c60c59002ca9341d/g0acwuifcadmssqiolly.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992689/production/6051f000c60c59002ca9341d/g0acwuifcadmssqiolly.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992691/production/6051f000c60c59002ca9341d/ccsw0rrlcjpau9avsqg5.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992691/production/6051f000c60c59002ca9341d/ccsw0rrlcjpau9avsqg5.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992688/production/6051f000c60c59002ca9341d/koej7i8pybyb3jphasd4.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992688/production/6051f000c60c59002ca9341d/koej7i8pybyb3jphasd4.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992692/production/6051f000c60c59002ca9341d/ukbtwrisnakca6xosysf.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992692/production/6051f000c60c59002ca9341d/ukbtwrisnakca6xosysf.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992687/production/6051f000c60c59002ca9341d/xvfevpz8bui0rwxk93kx.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992687/production/6051f000c60c59002ca9341d/xvfevpz8bui0rwxk93kx.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992691/production/6051f000c60c59002ca9341d/ttvit5pqcxqj8tvkgc3o.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992691/production/6051f000c60c59002ca9341d/ttvit5pqcxqj8tvkgc3o.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992713/production/6051f000c60c59002ca9341d/z2u5opvzk3hx5svsh6k8.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992713/production/6051f000c60c59002ca9341d/z2u5opvzk3hx5svsh6k8.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992717/production/6051f000c60c59002ca9341d/dz5xqalzvxphl7z4boks.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992717/production/6051f000c60c59002ca9341d/dz5xqalzvxphl7z4boks.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992719/production/6051f000c60c59002ca9341d/mttcpybppqljdrlegl4l.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992719/production/6051f000c60c59002ca9341d/mttcpybppqljdrlegl4l.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992724/production/6051f000c60c59002ca9341d/ui7wo12demhzai2dqw29.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992724/production/6051f000c60c59002ca9341d/ui7wo12demhzai2dqw29.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992721/production/6051f000c60c59002ca9341d/euclxtcjqgeyvfuyjwny.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992721/production/6051f000c60c59002ca9341d/euclxtcjqgeyvfuyjwny.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992721/production/6051f000c60c59002ca9341d/ozccauwoejqqaz79llws.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992721/production/6051f000c60c59002ca9341d/ozccauwoejqqaz79llws.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992732/production/6051f000c60c59002ca9341d/s8lm5vesgzr0us6hscif.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992732/production/6051f000c60c59002ca9341d/s8lm5vesgzr0us6hscif.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992733/production/6051f000c60c59002ca9341d/dgmvhg6ge2dmehjspyxu.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992733/production/6051f000c60c59002ca9341d/dgmvhg6ge2dmehjspyxu.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673992737/production/6051f000c60c59002ca9341d/k2whe3a7bdso2yotdruj.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673992737/production/6051f000c60c59002ca9341d/k2whe3a7bdso2yotdruj.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993414/production/6051f000c60c59002ca9341d/t4pnnw5pviunh2mgkepr.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993414/production/6051f000c60c59002ca9341d/t4pnnw5pviunh2mgkepr.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993416/production/6051f000c60c59002ca9341d/j0iyoy9txwr9bmcaosof.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993416/production/6051f000c60c59002ca9341d/j0iyoy9txwr9bmcaosof.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993406/production/6051f000c60c59002ca9341d/ltik0mj7yhvaqtisy7bf.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993406/production/6051f000c60c59002ca9341d/ltik0mj7yhvaqtisy7bf.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993414/production/6051f000c60c59002ca9341d/b218ysbhl6h09p1ihbcr.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993414/production/6051f000c60c59002ca9341d/b218ysbhl6h09p1ihbcr.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993414/production/6051f000c60c59002ca9341d/sxlvguj0sugzevvywbfw.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993414/production/6051f000c60c59002ca9341d/sxlvguj0sugzevvywbfw.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993431/production/6051f000c60c59002ca9341d/g4v5lh9wmrkc3ld9hwwd.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993431/production/6051f000c60c59002ca9341d/g4v5lh9wmrkc3ld9hwwd.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993432/production/6051f000c60c59002ca9341d/wcndwqcaki2nd5ujszwe.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993432/production/6051f000c60c59002ca9341d/wcndwqcaki2nd5ujszwe.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993434/production/6051f000c60c59002ca9341d/ihithqvamqlqycnhsyxx.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993434/production/6051f000c60c59002ca9341d/ihithqvamqlqycnhsyxx.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993434/production/6051f000c60c59002ca9341d/ru7emkswpowgur5otxjg.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993434/production/6051f000c60c59002ca9341d/ru7emkswpowgur5otxjg.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993443/production/6051f000c60c59002ca9341d/fa35vercefdg2cdmphfm.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993443/production/6051f000c60c59002ca9341d/fa35vercefdg2cdmphfm.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993443/production/6051f000c60c59002ca9341d/dfvhaqud5ovxofns79u8.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993443/production/6051f000c60c59002ca9341d/dfvhaqud5ovxofns79u8.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993467/production/6051f000c60c59002ca9341d/nysyak8ulbn4um4z2eb7.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993467/production/6051f000c60c59002ca9341d/nysyak8ulbn4um4z2eb7.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993467/production/6051f000c60c59002ca9341d/hatqr8tyslulbhqxces3.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993467/production/6051f000c60c59002ca9341d/hatqr8tyslulbhqxces3.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993456/production/6051f000c60c59002ca9341d/cnf3ac2rp5jbsvtqwtbq.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993456/production/6051f000c60c59002ca9341d/cnf3ac2rp5jbsvtqwtbq.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993453/production/6051f000c60c59002ca9341d/kijwuaxtxsrj40yssnnz.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993453/production/6051f000c60c59002ca9341d/kijwuaxtxsrj40yssnnz.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993465/production/6051f000c60c59002ca9341d/lxcvn4vga4d5fjcem9e9.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993465/production/6051f000c60c59002ca9341d/lxcvn4vga4d5fjcem9e9.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993477/production/6051f000c60c59002ca9341d/mfshijtlxyydjqcwrb6u.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993477/production/6051f000c60c59002ca9341d/mfshijtlxyydjqcwrb6u.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993477/production/6051f000c60c59002ca9341d/ecvt3kny77j09jlvehwl.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993477/production/6051f000c60c59002ca9341d/ecvt3kny77j09jlvehwl.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993490/production/6051f000c60c59002ca9341d/kwa71xgribg4ef1gbp6m.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993490/production/6051f000c60c59002ca9341d/kwa71xgribg4ef1gbp6m.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993487/production/6051f000c60c59002ca9341d/usv8r9uxw3xxohabfyyo.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993487/production/6051f000c60c59002ca9341d/usv8r9uxw3xxohabfyyo.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993506/production/6051f000c60c59002ca9341d/tk3y6hk56wgfbu6ydkqs.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993506/production/6051f000c60c59002ca9341d/tk3y6hk56wgfbu6ydkqs.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993484/production/6051f000c60c59002ca9341d/p844wudvfjkq0hy8w7ql.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993484/production/6051f000c60c59002ca9341d/p844wudvfjkq0hy8w7ql.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993512/production/6051f000c60c59002ca9341d/mjdnsb3mdoca9gbqfoop.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993512/production/6051f000c60c59002ca9341d/mjdnsb3mdoca9gbqfoop.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993502/production/6051f000c60c59002ca9341d/m3qvmxocwgjivjjnof6w.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993502/production/6051f000c60c59002ca9341d/m3qvmxocwgjivjjnof6w.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993510/production/6051f000c60c59002ca9341d/r8ifag4iueynwebefqiw.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993510/production/6051f000c60c59002ca9341d/r8ifag4iueynwebefqiw.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993512/production/6051f000c60c59002ca9341d/knlz3toskfkawt8r5vru.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993512/production/6051f000c60c59002ca9341d/knlz3toskfkawt8r5vru.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993509/production/6051f000c60c59002ca9341d/qxskb7nsvd6epx63khbd.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993509/production/6051f000c60c59002ca9341d/qxskb7nsvd6epx63khbd.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993524/production/6051f000c60c59002ca9341d/qaw22wx0mqc5qrf9lzzr.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993524/production/6051f000c60c59002ca9341d/qaw22wx0mqc5qrf9lzzr.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993532/production/6051f000c60c59002ca9341d/mol5uoyitzmhhc8v7fgx.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993532/production/6051f000c60c59002ca9341d/mol5uoyitzmhhc8v7fgx.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993523/production/6051f000c60c59002ca9341d/wvmoth2bpfrgviryeno8.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993523/production/6051f000c60c59002ca9341d/wvmoth2bpfrgviryeno8.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993543/production/6051f000c60c59002ca9341d/apnhlcblkupkcnrqpep3.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993543/production/6051f000c60c59002ca9341d/apnhlcblkupkcnrqpep3.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993541/production/6051f000c60c59002ca9341d/kvfltrfhfc0g5segapyh.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993541/production/6051f000c60c59002ca9341d/kvfltrfhfc0g5segapyh.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1673993538/production/6051f000c60c59002ca9341d/vjooru2r17g3trscvhzw.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1673993538/production/6051f000c60c59002ca9341d/vjooru2r17g3trscvhzw.jpg"
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 175
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "This luxury apartment is part of Woodward Square, a sought-after central location, and is ideally situated for anyone commuting to the city centre, Cherrywood, or Sandyford business hubs, as the luas line is at the complex. The stylish modern development built with sustainability in mind. Surrounded by nature, this complex includes landscaped green areas and some beautiful parkland. Work from home spaces are available, as well as a resident’s gym and lounge, a studio and screening room, and a concierge service and parcel collection. There are 2 double rooms, one of which is ensuite."
+    }
+  },
+  {
+    "_id": "64cbf950953d690038271193",
+    "title": "Grange One",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Brewery Road, A94 C2F6 Dublin, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694706923/production/6051f000c60c59002ca9341d/kqlevykabbf3cdzc2xsh.jpg"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694706923/production/6051f000c60c59002ca9341d/kqlevykabbf3cdzc2xsh.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694706923/production/6051f000c60c59002ca9341d/kqlevykabbf3cdzc2xsh.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694706923/production/6051f000c60c59002ca9341d/bkkcdlbaggyaqkazsnzj.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694706923/production/6051f000c60c59002ca9341d/bkkcdlbaggyaqkazsnzj.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694706923/production/6051f000c60c59002ca9341d/xryxftzhrt9zhtvswog0.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694706923/production/6051f000c60c59002ca9341d/xryxftzhrt9zhtvswog0.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694601839/production/6051f000c60c59002ca9341d/tc6p83zeke2zxmyzfcdc.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694601839/production/6051f000c60c59002ca9341d/tc6p83zeke2zxmyzfcdc.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694602069/production/6051f000c60c59002ca9341d/sh2ewguvyteqbhb4dy5s.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694602069/production/6051f000c60c59002ca9341d/sh2ewguvyteqbhb4dy5s.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694601840/production/6051f000c60c59002ca9341d/tv1rvwj6xfxgmhkcwupl.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694601840/production/6051f000c60c59002ca9341d/tv1rvwj6xfxgmhkcwupl.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694601838/production/6051f000c60c59002ca9341d/ai8ovqr68dhdjbketnel.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694601838/production/6051f000c60c59002ca9341d/ai8ovqr68dhdjbketnel.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694602074/production/6051f000c60c59002ca9341d/gjb9yhkelis9zfykqwgc.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694602074/production/6051f000c60c59002ca9341d/gjb9yhkelis9zfykqwgc.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1691089015/production/6051f000c60c59002ca9341d/fnxpk6eot8259112ms3s.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1691089015/production/6051f000c60c59002ca9341d/fnxpk6eot8259112ms3s.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694601842/production/6051f000c60c59002ca9341d/chixqitlwolokt2evtop.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694601842/production/6051f000c60c59002ca9341d/chixqitlwolokt2evtop.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694601836/production/6051f000c60c59002ca9341d/ajegkb0svaxgrv0guy1f.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694601836/production/6051f000c60c59002ca9341d/ajegkb0svaxgrv0guy1f.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694601837/production/6051f000c60c59002ca9341d/be09j1godtxvyystp5sf.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694601837/production/6051f000c60c59002ca9341d/be09j1godtxvyystp5sf.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694601835/production/6051f000c60c59002ca9341d/x8xgbwqxeualodosuxg6.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694601835/production/6051f000c60c59002ca9341d/x8xgbwqxeualodosuxg6.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694602075/production/6051f000c60c59002ca9341d/ensx5btgdk4h9otxo6gx.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694602075/production/6051f000c60c59002ca9341d/ensx5btgdk4h9otxo6gx.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694602076/production/6051f000c60c59002ca9341d/rbvwyfxqgstiamgoxdal.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694602076/production/6051f000c60c59002ca9341d/rbvwyfxqgstiamgoxdal.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694601840/production/6051f000c60c59002ca9341d/f9fwlugamshuolkpjsyh.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694601840/production/6051f000c60c59002ca9341d/f9fwlugamshuolkpjsyh.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694601844/production/6051f000c60c59002ca9341d/kmvjsxomwohsa5yly6iy.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694601844/production/6051f000c60c59002ca9341d/kmvjsxomwohsa5yly6iy.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694601846/production/6051f000c60c59002ca9341d/ubsd2qj9wi3yuxx8rlhy.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694601846/production/6051f000c60c59002ca9341d/ubsd2qj9wi3yuxx8rlhy.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694602068/production/6051f000c60c59002ca9341d/qyslhp5weyvoymp9wdct.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694602068/production/6051f000c60c59002ca9341d/qyslhp5weyvoymp9wdct.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694602069/production/6051f000c60c59002ca9341d/l9gmljcz605cyo2eblzi.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694602069/production/6051f000c60c59002ca9341d/l9gmljcz605cyo2eblzi.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694602069/production/6051f000c60c59002ca9341d/fsbjt5bat6fkspvttikl.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694602069/production/6051f000c60c59002ca9341d/fsbjt5bat6fkspvttikl.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694602070/production/6051f000c60c59002ca9341d/z4q6yybnudyjlwqts73a.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694602070/production/6051f000c60c59002ca9341d/z4q6yybnudyjlwqts73a.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694602071/production/6051f000c60c59002ca9341d/vaqxoyxv0jmf0hauqrvq.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694602071/production/6051f000c60c59002ca9341d/vaqxoyxv0jmf0hauqrvq.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1691089016/production/6051f000c60c59002ca9341d/lphcikxbtzizcmpo344j.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1691089016/production/6051f000c60c59002ca9341d/lphcikxbtzizcmpo344j.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694706921/production/6051f000c60c59002ca9341d/xbhygxzx6h6uxzthbq8h.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694706921/production/6051f000c60c59002ca9341d/xbhygxzx6h6uxzthbq8h.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694706920/production/6051f000c60c59002ca9341d/cr5nby0rtldftxahrnqv.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694706920/production/6051f000c60c59002ca9341d/cr5nby0rtldftxahrnqv.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1691089014/production/6051f000c60c59002ca9341d/jrmf4lyrtzqcpn6odzwt.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1691089014/production/6051f000c60c59002ca9341d/jrmf4lyrtzqcpn6odzwt.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1694706921/production/6051f000c60c59002ca9341d/djpiafizibfmn5h3fsf0.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1694706921/production/6051f000c60c59002ca9341d/djpiafizibfmn5h3fsf0.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1715689295/production/6051f000c60c59002ca9341d/sy037di1vtekrfpapyra.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1715689295/production/6051f000c60c59002ca9341d/sy037di1vtekrfpapyra.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1715689328/production/6051f000c60c59002ca9341d/nkby1nzl8whrbtmgfyvk.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1715689328/production/6051f000c60c59002ca9341d/nkby1nzl8whrbtmgfyvk.jpg"
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 150
+    },
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "accommodates": 2,
+    "publicDescription": {
+      "summary": "The Grange is a stylish, modern, one-bed apartment. Set right on the N11 roadway, this residence is ideal for commuters. Also perfect for when you're not on the move, the apartment features comfortable, contemporary furniture. Taking influence from Italian designs, the interior is fashionable and homely."
+    }
+  },
+  {
+    "_id": "6568c039779d9300265aada2",
+    "title": "Oakwood House",
+    "propertyType": "House",
+    "address": {
+      "full": "Brendan Vale, Dunville Ave, Ranelagh, Dublin 6, D06 PH21, Ireland",
+      "city": "Dublin 6"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/lkljghspbgcftv335h4b?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/lkljghspbgcftv335h4b.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/lkljghspbgcftv335h4b?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043301/cmhhbkk28fv8ecffywss.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/cmhhbkk28fv8ecffywss?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/d5l2etajwaxrm7uxiv2y.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/d5l2etajwaxrm7uxiv2y?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043301/mu81nw3n5zpnhsshat5v.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/mu81nw3n5zpnhsshat5v?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/njezmdlsqygz7l2tg5i8.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/njezmdlsqygz7l2tg5i8?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/qsyjrs4d0otirzidz11a.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/qsyjrs4d0otirzidz11a?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/ko6fn3hovzpxuqarhzue.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ko6fn3hovzpxuqarhzue?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/ekbj9uxybnjlojoh2fqn.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ekbj9uxybnjlojoh2fqn?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/deetrxdaobzpd6bk0olu.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/deetrxdaobzpd6bk0olu?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/mwxjjc1rpyel2jeuldcd.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/mwxjjc1rpyel2jeuldcd?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/n3b7v523u1d6xies6z02.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/n3b7v523u1d6xies6z02?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/w2sj5d6ktryadfk3pur6.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/w2sj5d6ktryadfk3pur6?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/lwn9pnkdrxij9bapzaxz.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/lwn9pnkdrxij9bapzaxz?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/enolwizgs7gd0hvfm3ej.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/enolwizgs7gd0hvfm3ej?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/btbtfraludlnwsm7eehq.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/btbtfraludlnwsm7eehq?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/vbmzck3tzlsjhcqh1kwd.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/vbmzck3tzlsjhcqh1kwd?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/snc591t4evaips8cyc9e.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/snc591t4evaips8cyc9e?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/evlbbhinepskxnsy9uzv.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/evlbbhinepskxnsy9uzv?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/gvwmbp6bpkxumfadhnza.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/gvwmbp6bpkxumfadhnza?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/aealmoxzyoinl586z3wk.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/aealmoxzyoinl586z3wk?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/cd2jvcoa4p3jfe0k7h2q.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/cd2jvcoa4p3jfe0k7h2q?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043303/cvh0m0zlvl9fq7wqiwzc.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/cvh0m0zlvl9fq7wqiwzc?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043301/zvhdahrxckopm6onctw0.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zvhdahrxckopm6onctw0?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/vacjqckn5xjvjlupeoeh.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/vacjqckn5xjvjlupeoeh?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/sskm00oeyhtffqq2hbjt.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/sskm00oeyhtffqq2hbjt?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/t47h84ymirtan6bg3qiq.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/t47h84ymirtan6bg3qiq?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/zxy1afy7inl3mz126tuk.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zxy1afy7inl3mz126tuk?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/e6zg45anng5p1jkwmsvb.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/e6zg45anng5p1jkwmsvb?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/f2kj51zuppepa8mlrpbu.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/f2kj51zuppepa8mlrpbu?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043300/ji3wjzyxmjhnxfpvpr6v.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ji3wjzyxmjhnxfpvpr6v?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 350
+    },
+    "bathrooms": 1,
+    "bedrooms": 3,
+    "accommodates": 6,
+    "publicDescription": {
+      "summary": "Oakwood House  is a bay-windowed home offering charm and ambience of rare appeal in the affluent residential urban area of Ranelagh. Set back from Dunville Avenue and approached by a tree lined gravelled driveway leading to a tranquil oasis, the house belies its close proximity to the city centre and all main city attractions. A stroll down the avenue leads to a wonderful array of local shops, restaurants and amenities."
+    }
+  },
+  {
+    "_id": "65da2dfb844cd200128ef68a",
+    "title": "The Lookout by Dublin At Home",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Harbour Road, D Dublin, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797325/production/6051f000c60c59002ca9341d/eg65bk96tlk3r5xdpioz.jpg"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797325/production/6051f000c60c59002ca9341d/eg65bk96tlk3r5xdpioz.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797325/production/6051f000c60c59002ca9341d/eg65bk96tlk3r5xdpioz.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797325/production/6051f000c60c59002ca9341d/pstt9bbesm6mjlkuuioy.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797325/production/6051f000c60c59002ca9341d/pstt9bbesm6mjlkuuioy.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797322/production/6051f000c60c59002ca9341d/hcsa3jhq9hkrjgczs88f.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797322/production/6051f000c60c59002ca9341d/hcsa3jhq9hkrjgczs88f.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797323/production/6051f000c60c59002ca9341d/z3siol6ckkhnvdglihfv.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797323/production/6051f000c60c59002ca9341d/z3siol6ckkhnvdglihfv.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797323/production/6051f000c60c59002ca9341d/uqxlad2pnkh19jjhj9gm.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797323/production/6051f000c60c59002ca9341d/uqxlad2pnkh19jjhj9gm.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797324/production/6051f000c60c59002ca9341d/hq3psivqpwody7vqximd.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797324/production/6051f000c60c59002ca9341d/hq3psivqpwody7vqximd.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797325/production/6051f000c60c59002ca9341d/qylhqujshgxhonqk0gax.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797325/production/6051f000c60c59002ca9341d/qylhqujshgxhonqk0gax.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797322/production/6051f000c60c59002ca9341d/b1wb1vdqusqvzhnuhcfx.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797322/production/6051f000c60c59002ca9341d/b1wb1vdqusqvzhnuhcfx.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797322/production/6051f000c60c59002ca9341d/abudyryaczzfodeeghtd.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797322/production/6051f000c60c59002ca9341d/abudyryaczzfodeeghtd.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797324/production/6051f000c60c59002ca9341d/rvytjuobhpott5lqsllv.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797324/production/6051f000c60c59002ca9341d/rvytjuobhpott5lqsllv.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797325/production/6051f000c60c59002ca9341d/cqevbcq9z0xthzesjlen.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797325/production/6051f000c60c59002ca9341d/cqevbcq9z0xthzesjlen.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797327/production/6051f000c60c59002ca9341d/rqcawdeu4rlifa6bxghz.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797327/production/6051f000c60c59002ca9341d/rqcawdeu4rlifa6bxghz.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797328/production/6051f000c60c59002ca9341d/a43oqoh4ysbl3uphscs3.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797328/production/6051f000c60c59002ca9341d/a43oqoh4ysbl3uphscs3.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797328/production/6051f000c60c59002ca9341d/z0oorpanwjl40q3xhsuz.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797328/production/6051f000c60c59002ca9341d/z0oorpanwjl40q3xhsuz.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797327/production/6051f000c60c59002ca9341d/vgijw9rq2ohtsgw50abw.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797327/production/6051f000c60c59002ca9341d/vgijw9rq2ohtsgw50abw.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797328/production/6051f000c60c59002ca9341d/sx4jln01mvxlpdhk2kgq.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797328/production/6051f000c60c59002ca9341d/sx4jln01mvxlpdhk2kgq.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797328/production/6051f000c60c59002ca9341d/wsycynvvkr6yk7xxasau.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797328/production/6051f000c60c59002ca9341d/wsycynvvkr6yk7xxasau.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797329/production/6051f000c60c59002ca9341d/gpg4cebsqeymjscdxv7j.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797329/production/6051f000c60c59002ca9341d/gpg4cebsqeymjscdxv7j.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797330/production/6051f000c60c59002ca9341d/s6nba7cpwxknlyqjfarh.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797330/production/6051f000c60c59002ca9341d/s6nba7cpwxknlyqjfarh.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797330/production/6051f000c60c59002ca9341d/rdcknqp6xax2hxlfbpg7.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797330/production/6051f000c60c59002ca9341d/rdcknqp6xax2hxlfbpg7.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797330/production/6051f000c60c59002ca9341d/cculfj7wvlklzloe9gtt.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797330/production/6051f000c60c59002ca9341d/cculfj7wvlklzloe9gtt.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797330/production/6051f000c60c59002ca9341d/ktlffv7uccxkz10bfw6q.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797330/production/6051f000c60c59002ca9341d/ktlffv7uccxkz10bfw6q.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797331/production/6051f000c60c59002ca9341d/ph2hqxwmjlvllhhnuxx5.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797331/production/6051f000c60c59002ca9341d/ph2hqxwmjlvllhhnuxx5.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797331/production/6051f000c60c59002ca9341d/sctvwxder0bpwrlm4tys.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797331/production/6051f000c60c59002ca9341d/sctvwxder0bpwrlm4tys.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797333/production/6051f000c60c59002ca9341d/wgrsslsshqueuvcvb4mv.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797333/production/6051f000c60c59002ca9341d/wgrsslsshqueuvcvb4mv.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797333/production/6051f000c60c59002ca9341d/eak9zcoyrhfpod1k0vef.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797333/production/6051f000c60c59002ca9341d/eak9zcoyrhfpod1k0vef.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797334/production/6051f000c60c59002ca9341d/hairouufsr1o3ktbckmh.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797334/production/6051f000c60c59002ca9341d/hairouufsr1o3ktbckmh.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797335/production/6051f000c60c59002ca9341d/gcjfnutwssdts67cgw5c.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797335/production/6051f000c60c59002ca9341d/gcjfnutwssdts67cgw5c.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797334/production/6051f000c60c59002ca9341d/uvefduhv33gvbywftrlt.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797334/production/6051f000c60c59002ca9341d/uvefduhv33gvbywftrlt.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797334/production/6051f000c60c59002ca9341d/irq2g0tvufgz76hxn2fk.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797334/production/6051f000c60c59002ca9341d/irq2g0tvufgz76hxn2fk.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797336/production/6051f000c60c59002ca9341d/e6wyygjwdwvpw1sskbwu.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797336/production/6051f000c60c59002ca9341d/e6wyygjwdwvpw1sskbwu.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797336/production/6051f000c60c59002ca9341d/mdcg5rfoyfy2cbopiiml.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797336/production/6051f000c60c59002ca9341d/mdcg5rfoyfy2cbopiiml.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797336/production/6051f000c60c59002ca9341d/yqgwf4juvklylj61tlci.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797336/production/6051f000c60c59002ca9341d/yqgwf4juvklylj61tlci.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797337/production/6051f000c60c59002ca9341d/gaalsqqxuzzorw2jgcaa.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797337/production/6051f000c60c59002ca9341d/gaalsqqxuzzorw2jgcaa.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797337/production/6051f000c60c59002ca9341d/lvfxjoebvvxsz0xm7gx8.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797337/production/6051f000c60c59002ca9341d/lvfxjoebvvxsz0xm7gx8.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797338/production/6051f000c60c59002ca9341d/ojidntxpuyqysit3xbun.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797338/production/6051f000c60c59002ca9341d/ojidntxpuyqysit3xbun.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797339/production/6051f000c60c59002ca9341d/yv8lwo9swgi12ovtknd4.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797339/production/6051f000c60c59002ca9341d/yv8lwo9swgi12ovtknd4.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797339/production/6051f000c60c59002ca9341d/t0yecqzbmknzp98jktyx.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797339/production/6051f000c60c59002ca9341d/t0yecqzbmknzp98jktyx.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797339/production/6051f000c60c59002ca9341d/x2h44kuycbfjhev7wk7f.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797339/production/6051f000c60c59002ca9341d/x2h44kuycbfjhev7wk7f.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797339/production/6051f000c60c59002ca9341d/gjxjovzhwtvaz4kzv9z7.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797339/production/6051f000c60c59002ca9341d/gjxjovzhwtvaz4kzv9z7.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797340/production/6051f000c60c59002ca9341d/iihwyav53rhgdurdbkv7.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797340/production/6051f000c60c59002ca9341d/iihwyav53rhgdurdbkv7.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797341/production/6051f000c60c59002ca9341d/hopwfdte7as6czccampa.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797341/production/6051f000c60c59002ca9341d/hopwfdte7as6czccampa.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797341/production/6051f000c60c59002ca9341d/qriunqxrp2suz9c7hdbn.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797341/production/6051f000c60c59002ca9341d/qriunqxrp2suz9c7hdbn.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797341/production/6051f000c60c59002ca9341d/g8alsi5pymaw4pl9mvao.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797341/production/6051f000c60c59002ca9341d/g8alsi5pymaw4pl9mvao.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797342/production/6051f000c60c59002ca9341d/bvmvevf9bh5ow03ofhfc.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797342/production/6051f000c60c59002ca9341d/bvmvevf9bh5ow03ofhfc.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797342/production/6051f000c60c59002ca9341d/ktsdprr0kepixdqglcz5.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797342/production/6051f000c60c59002ca9341d/ktsdprr0kepixdqglcz5.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797343/production/6051f000c60c59002ca9341d/zdryl7nz6u6rfgnl6ryx.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797343/production/6051f000c60c59002ca9341d/zdryl7nz6u6rfgnl6ryx.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797344/production/6051f000c60c59002ca9341d/znnsey8q3qqoytuaadhe.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797344/production/6051f000c60c59002ca9341d/znnsey8q3qqoytuaadhe.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1708797343/production/6051f000c60c59002ca9341d/tdcuijykwbrfziny7pqe.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1708797343/production/6051f000c60c59002ca9341d/tdcuijykwbrfziny7pqe.jpg"
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 150
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "Located on the coast and set in beautifully landscaped gardens, The Lookout offers residents the rare opportunity to live in a modern, stylish and sustainable home with private balcony area for added comfort.\n\nThese airy and spacious apartments have been designed to anticipate residents’ needs and come complete with a range of fantastic amenities, including a gym, working hub space and concierge service."
+    }
+  },
+  {
+    "_id": "65f31e5e8c969d005821ba54",
+    "title": "Holywell Rise Swords",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Holywell Rise,  Swords, Ireland",
+      "city": "Swords"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/pcj6cugs154jhf5ow6bw?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/pcj6cugs154jhf5ow6bw.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/pcj6cugs154jhf5ow6bw?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/j6hargbksmkwrxj6lnyk.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/j6hargbksmkwrxj6lnyk?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/etveipkr2sl0sv9zaqhz.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/etveipkr2sl0sv9zaqhz?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/wsfsjaadrygaepmk6j2t.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/wsfsjaadrygaepmk6j2t?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/b5cynu0bhxxrcokqddsf.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/b5cynu0bhxxrcokqddsf?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/rrxa3difrzm9pzlcledq.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/rrxa3difrzm9pzlcledq?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/mhdhtpmyigcqmtyahjs5.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/mhdhtpmyigcqmtyahjs5?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/a2m4i1rvirhulzweoe7j.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/a2m4i1rvirhulzweoe7j?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/nc5zqxkwli9akkcngcaq.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/nc5zqxkwli9akkcngcaq?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/x9j8psvu5wwlvlpco5ne.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/x9j8psvu5wwlvlpco5ne?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/ouitrzyb6ewtuvoxywm8.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/ouitrzyb6ewtuvoxywm8?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/zncxsc8s5v2f9zdbma3u.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/zncxsc8s5v2f9zdbma3u?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/sprijgbbhfpnimgbx35b.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/sprijgbbhfpnimgbx35b?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043346/hwo2slxcnyvgjqs1ahts.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/hwo2slxcnyvgjqs1ahts?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/k1taakdxcoybwdfoivdb.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/k1taakdxcoybwdfoivdb?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/awheko2iaaddgzyhg7wr.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/awheko2iaaddgzyhg7wr?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/dkwj8kchnvgkbiqtxcsy.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/dkwj8kchnvgkbiqtxcsy?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/iiwhpjf2lxqjmuhxfyfo.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/iiwhpjf2lxqjmuhxfyfo?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/anfaaceuck6kuptawxyu.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/anfaaceuck6kuptawxyu?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043347/yzb4cdvsugrymczqog1g.jpg",
+        "thumbnail": "https://res.cloudinary.com/guesty/image/upload/c_fit,h_200/yzb4cdvsugrymczqog1g?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 150
+    },
+    "bathrooms": 1,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "This recently refurbished duplex listing is new to the market for 2024. The apartment is in the north city suburb of Swords and is located conveniently close to Dublin Airport. The Pavillions Shopping Centre is close by along with all the facilities of Swords Town Centre."
+    }
+  },
+  {
+    "_id": "661d7b14f7652a000fdcc2cc",
+    "title": "The Cornerstone One by Dublin At Home",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Lower Kilmacud Road, A94 H9N1 Dublin, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854422/production/6051f000c60c59002ca9341d/cyhlqry5nftqnjow3ip6.jpg"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854422/production/6051f000c60c59002ca9341d/cyhlqry5nftqnjow3ip6.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854422/production/6051f000c60c59002ca9341d/cyhlqry5nftqnjow3ip6.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854417/production/6051f000c60c59002ca9341d/n5krpsnqhba9hevvfh1q.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854417/production/6051f000c60c59002ca9341d/n5krpsnqhba9hevvfh1q.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854416/production/6051f000c60c59002ca9341d/etbv6ufxotaebcxy4iiw.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854416/production/6051f000c60c59002ca9341d/etbv6ufxotaebcxy4iiw.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854325/production/6051f000c60c59002ca9341d/cfl928msidjrogxeafe0.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854325/production/6051f000c60c59002ca9341d/cfl928msidjrogxeafe0.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854323/production/6051f000c60c59002ca9341d/hbhwxhcid299c8ovoyw0.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854323/production/6051f000c60c59002ca9341d/hbhwxhcid299c8ovoyw0.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854325/production/6051f000c60c59002ca9341d/rg4a5yvvmtrhat3xhfbe.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854325/production/6051f000c60c59002ca9341d/rg4a5yvvmtrhat3xhfbe.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854322/production/6051f000c60c59002ca9341d/nfjfrxavaymiyugqw7a2.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854322/production/6051f000c60c59002ca9341d/nfjfrxavaymiyugqw7a2.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854323/production/6051f000c60c59002ca9341d/y07krrceuar3orivl2u3.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854323/production/6051f000c60c59002ca9341d/y07krrceuar3orivl2u3.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854321/production/6051f000c60c59002ca9341d/pydkqddyx5mtwinx4fxg.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854321/production/6051f000c60c59002ca9341d/pydkqddyx5mtwinx4fxg.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854325/production/6051f000c60c59002ca9341d/onwcqtlg18cgka0fweia.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854325/production/6051f000c60c59002ca9341d/onwcqtlg18cgka0fweia.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854326/production/6051f000c60c59002ca9341d/re7riw2yzebtzo0wnp6b.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854326/production/6051f000c60c59002ca9341d/re7riw2yzebtzo0wnp6b.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854332/production/6051f000c60c59002ca9341d/awa6ukdnfrviq0gnahqq.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854332/production/6051f000c60c59002ca9341d/awa6ukdnfrviq0gnahqq.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854328/production/6051f000c60c59002ca9341d/tk4hgeamhlrzwtoy4qy7.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854328/production/6051f000c60c59002ca9341d/tk4hgeamhlrzwtoy4qy7.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854331/production/6051f000c60c59002ca9341d/j8trwazhwootcbzril1d.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854331/production/6051f000c60c59002ca9341d/j8trwazhwootcbzril1d.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854329/production/6051f000c60c59002ca9341d/ckfl7m3dkutecpkt2svb.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854329/production/6051f000c60c59002ca9341d/ckfl7m3dkutecpkt2svb.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854333/production/6051f000c60c59002ca9341d/ittfivhd57cst5sqta9o.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854333/production/6051f000c60c59002ca9341d/ittfivhd57cst5sqta9o.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854332/production/6051f000c60c59002ca9341d/ytzyfweijz5ukmzdvmvs.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854332/production/6051f000c60c59002ca9341d/ytzyfweijz5ukmzdvmvs.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854334/production/6051f000c60c59002ca9341d/zz27vpaawszk9jqbjm1u.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854334/production/6051f000c60c59002ca9341d/zz27vpaawszk9jqbjm1u.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854334/production/6051f000c60c59002ca9341d/de9qhcp3jfswwou8lhhp.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854334/production/6051f000c60c59002ca9341d/de9qhcp3jfswwou8lhhp.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854339/production/6051f000c60c59002ca9341d/xbdiqlwzc3u0rp4rvlyd.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854339/production/6051f000c60c59002ca9341d/xbdiqlwzc3u0rp4rvlyd.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854338/production/6051f000c60c59002ca9341d/gee8rufwdswvsjtlfm69.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854338/production/6051f000c60c59002ca9341d/gee8rufwdswvsjtlfm69.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854338/production/6051f000c60c59002ca9341d/eruh2s6oezkwzhwiqj44.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854338/production/6051f000c60c59002ca9341d/eruh2s6oezkwzhwiqj44.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854371/production/6051f000c60c59002ca9341d/qvg9dvs3skzarjdshed1.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854371/production/6051f000c60c59002ca9341d/qvg9dvs3skzarjdshed1.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854368/production/6051f000c60c59002ca9341d/r30ypp8hlqfb5qigv9i6.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854368/production/6051f000c60c59002ca9341d/r30ypp8hlqfb5qigv9i6.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854371/production/6051f000c60c59002ca9341d/lkb7eygk9d86rbdcbopg.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854371/production/6051f000c60c59002ca9341d/lkb7eygk9d86rbdcbopg.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854367/production/6051f000c60c59002ca9341d/kq0gpjwjpxvtounyfbok.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854367/production/6051f000c60c59002ca9341d/kq0gpjwjpxvtounyfbok.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854369/production/6051f000c60c59002ca9341d/pjlw0gnrjclvshbtvcl6.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854369/production/6051f000c60c59002ca9341d/pjlw0gnrjclvshbtvcl6.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854370/production/6051f000c60c59002ca9341d/eiwyxtolxgqtjgfnbqga.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854370/production/6051f000c60c59002ca9341d/eiwyxtolxgqtjgfnbqga.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854373/production/6051f000c60c59002ca9341d/xkpxxmmgoktitn2rirun.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854373/production/6051f000c60c59002ca9341d/xkpxxmmgoktitn2rirun.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854375/production/6051f000c60c59002ca9341d/v4mbp7wtfiuaxncjenom.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854375/production/6051f000c60c59002ca9341d/v4mbp7wtfiuaxncjenom.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854376/production/6051f000c60c59002ca9341d/re1kv4ym1op6eevcdyml.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854376/production/6051f000c60c59002ca9341d/re1kv4ym1op6eevcdyml.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854378/production/6051f000c60c59002ca9341d/xfznmg9vud2qfed8xsyi.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854378/production/6051f000c60c59002ca9341d/xfznmg9vud2qfed8xsyi.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854380/production/6051f000c60c59002ca9341d/wcnqfhfgdq25o4uv3wnm.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854380/production/6051f000c60c59002ca9341d/wcnqfhfgdq25o4uv3wnm.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854378/production/6051f000c60c59002ca9341d/ljlixxhca38rwzdaxyfm.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854378/production/6051f000c60c59002ca9341d/ljlixxhca38rwzdaxyfm.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854380/production/6051f000c60c59002ca9341d/qcexwgs6qhuiue8bxjxj.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854380/production/6051f000c60c59002ca9341d/qcexwgs6qhuiue8bxjxj.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854381/production/6051f000c60c59002ca9341d/mc1nvsgxhj4c0edbcif2.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854381/production/6051f000c60c59002ca9341d/mc1nvsgxhj4c0edbcif2.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854382/production/6051f000c60c59002ca9341d/mhfofojco5rf8yqgfy7r.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854382/production/6051f000c60c59002ca9341d/mhfofojco5rf8yqgfy7r.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854385/production/6051f000c60c59002ca9341d/u2t8kqgbx8iwlwudg7nc.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854385/production/6051f000c60c59002ca9341d/u2t8kqgbx8iwlwudg7nc.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854383/production/6051f000c60c59002ca9341d/re4ou2c20b3yzyolgoex.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854383/production/6051f000c60c59002ca9341d/re4ou2c20b3yzyolgoex.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854388/production/6051f000c60c59002ca9341d/lesitxwydmcejttqvvsh.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854388/production/6051f000c60c59002ca9341d/lesitxwydmcejttqvvsh.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854386/production/6051f000c60c59002ca9341d/kvk3lxx3xnf70v2issqp.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854386/production/6051f000c60c59002ca9341d/kvk3lxx3xnf70v2issqp.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854388/production/6051f000c60c59002ca9341d/yr2yo4zrbio1nm9mfz4p.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854388/production/6051f000c60c59002ca9341d/yr2yo4zrbio1nm9mfz4p.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854388/production/6051f000c60c59002ca9341d/dfjcpmikqwwct8faeemm.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854388/production/6051f000c60c59002ca9341d/dfjcpmikqwwct8faeemm.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854387/production/6051f000c60c59002ca9341d/pqkkgxgdm1h5qo46cqo4.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854387/production/6051f000c60c59002ca9341d/pqkkgxgdm1h5qo46cqo4.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854421/production/6051f000c60c59002ca9341d/qq0kqqye7ukxkpq742wa.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854421/production/6051f000c60c59002ca9341d/qq0kqqye7ukxkpq742wa.jpg"
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 150
+    },
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "accommodates": 2,
+    "publicDescription": {
+      "summary": "The Cornerstone is a prestigious new development in the heart of Stillorgan Village, a lively suburban neighbourhood just a 20-minute drive from Stephens Green. This location offers the best of both worlds: the charm of village living with the city, coast, and mountains all within easy reach, thanks to excellent transportation options. You'll find an array of shops, eateries, and leisure spots right at your doorstep.\n\nExperience top-tier urban living with exclusive amenities including a gym, communal kitchen and lounge area, games room, rooftop terrace, and a state-of-the-art business centre. The landscaped internal courtyard features a private children's play area and benches for relaxation."
+    }
+  },
+  {
+    "_id": "661d7dfd25f55e0013d62741",
+    "title": "The Cornerstone Two by Dublin At Home",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Lower Kilmacud Road, A94 H9N1 Dublin, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854064/production/6051f000c60c59002ca9341d/wgxsrgvzwqmmk7wee3me.jpg"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854064/production/6051f000c60c59002ca9341d/wgxsrgvzwqmmk7wee3me.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854064/production/6051f000c60c59002ca9341d/wgxsrgvzwqmmk7wee3me.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854065/production/6051f000c60c59002ca9341d/h5zt2x91vmwpi71qpyot.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854065/production/6051f000c60c59002ca9341d/h5zt2x91vmwpi71qpyot.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853837/production/6051f000c60c59002ca9341d/ahlwygrye21ap4soca4t.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853837/production/6051f000c60c59002ca9341d/ahlwygrye21ap4soca4t.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853837/production/6051f000c60c59002ca9341d/zuwza63x9maxrcs7kefl.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853837/production/6051f000c60c59002ca9341d/zuwza63x9maxrcs7kefl.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853837/production/6051f000c60c59002ca9341d/m8drv02oavtviba6uuhp.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853837/production/6051f000c60c59002ca9341d/m8drv02oavtviba6uuhp.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853840/production/6051f000c60c59002ca9341d/dahi2noz9o2lcku55rch.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853840/production/6051f000c60c59002ca9341d/dahi2noz9o2lcku55rch.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853846/production/6051f000c60c59002ca9341d/neceaibvycxshdvgozfe.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853846/production/6051f000c60c59002ca9341d/neceaibvycxshdvgozfe.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853842/production/6051f000c60c59002ca9341d/xstvwdyqpytpatvepfam.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853842/production/6051f000c60c59002ca9341d/xstvwdyqpytpatvepfam.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853837/production/6051f000c60c59002ca9341d/q1dhq4j0epzpnyh1yzar.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853837/production/6051f000c60c59002ca9341d/q1dhq4j0epzpnyh1yzar.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853839/production/6051f000c60c59002ca9341d/ynhdwrm2pzfhci2asc0p.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853839/production/6051f000c60c59002ca9341d/ynhdwrm2pzfhci2asc0p.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853845/production/6051f000c60c59002ca9341d/izakdisidu4syt2fyrl9.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853845/production/6051f000c60c59002ca9341d/izakdisidu4syt2fyrl9.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853845/production/6051f000c60c59002ca9341d/nh7hoydercfacafsotc6.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853845/production/6051f000c60c59002ca9341d/nh7hoydercfacafsotc6.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853844/production/6051f000c60c59002ca9341d/szot5aiv3crckopra64g.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853844/production/6051f000c60c59002ca9341d/szot5aiv3crckopra64g.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853849/production/6051f000c60c59002ca9341d/e58wcfbncesljxqwyarj.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853849/production/6051f000c60c59002ca9341d/e58wcfbncesljxqwyarj.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853850/production/6051f000c60c59002ca9341d/qs20jkfw9eodexzsm1gl.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853850/production/6051f000c60c59002ca9341d/qs20jkfw9eodexzsm1gl.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853848/production/6051f000c60c59002ca9341d/daicabvj0tsrpognrntt.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853848/production/6051f000c60c59002ca9341d/daicabvj0tsrpognrntt.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853850/production/6051f000c60c59002ca9341d/efm7uvzwm4u71dpbh787.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853850/production/6051f000c60c59002ca9341d/efm7uvzwm4u71dpbh787.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853852/production/6051f000c60c59002ca9341d/toqqlan3cay6ozae3tor.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853852/production/6051f000c60c59002ca9341d/toqqlan3cay6ozae3tor.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853853/production/6051f000c60c59002ca9341d/op7ojqidzqyn3bxhuzru.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853853/production/6051f000c60c59002ca9341d/op7ojqidzqyn3bxhuzru.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853852/production/6051f000c60c59002ca9341d/cvdb1n6rmndtshhsaskt.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853852/production/6051f000c60c59002ca9341d/cvdb1n6rmndtshhsaskt.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853858/production/6051f000c60c59002ca9341d/uwx1zj8eqdo0vzw8bnm2.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853858/production/6051f000c60c59002ca9341d/uwx1zj8eqdo0vzw8bnm2.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853857/production/6051f000c60c59002ca9341d/jfveg9rablj1drlkco3a.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853857/production/6051f000c60c59002ca9341d/jfveg9rablj1drlkco3a.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853854/production/6051f000c60c59002ca9341d/uk37mdzifnojmzzojfmt.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853854/production/6051f000c60c59002ca9341d/uk37mdzifnojmzzojfmt.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853860/production/6051f000c60c59002ca9341d/xx24m9sqh6300ynqjohj.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853860/production/6051f000c60c59002ca9341d/xx24m9sqh6300ynqjohj.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853860/production/6051f000c60c59002ca9341d/unigfsdkm0o4dchx0gqs.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853860/production/6051f000c60c59002ca9341d/unigfsdkm0o4dchx0gqs.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853900/production/6051f000c60c59002ca9341d/vh6phgwdfcuyrdjgrfd4.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853900/production/6051f000c60c59002ca9341d/vh6phgwdfcuyrdjgrfd4.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853901/production/6051f000c60c59002ca9341d/euce6hw0ut8lhcdl0kcj.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853901/production/6051f000c60c59002ca9341d/euce6hw0ut8lhcdl0kcj.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853897/production/6051f000c60c59002ca9341d/aso5mf90wjetsfifdkgu.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853897/production/6051f000c60c59002ca9341d/aso5mf90wjetsfifdkgu.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853902/production/6051f000c60c59002ca9341d/zdel4sylcvffllnvhp07.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853902/production/6051f000c60c59002ca9341d/zdel4sylcvffllnvhp07.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853899/production/6051f000c60c59002ca9341d/moqhbcaq9xsjxmvvfiio.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853899/production/6051f000c60c59002ca9341d/moqhbcaq9xsjxmvvfiio.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853901/production/6051f000c60c59002ca9341d/df2pvj1omuslsjiam178.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853901/production/6051f000c60c59002ca9341d/df2pvj1omuslsjiam178.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853902/production/6051f000c60c59002ca9341d/u82zmsqbbunpdxlftqgk.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853902/production/6051f000c60c59002ca9341d/u82zmsqbbunpdxlftqgk.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853907/production/6051f000c60c59002ca9341d/xe9w9rjjlltmteq3eilz.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853907/production/6051f000c60c59002ca9341d/xe9w9rjjlltmteq3eilz.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853910/production/6051f000c60c59002ca9341d/x987psifyea8fft0m9k7.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853910/production/6051f000c60c59002ca9341d/x987psifyea8fft0m9k7.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853910/production/6051f000c60c59002ca9341d/uscu1syulxiqgga2xtoh.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853910/production/6051f000c60c59002ca9341d/uscu1syulxiqgga2xtoh.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853912/production/6051f000c60c59002ca9341d/hkpwt8vygtjdiqgrjtkd.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853912/production/6051f000c60c59002ca9341d/hkpwt8vygtjdiqgrjtkd.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853911/production/6051f000c60c59002ca9341d/zczczrpr93yqgew5bl8c.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853911/production/6051f000c60c59002ca9341d/zczczrpr93yqgew5bl8c.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853912/production/6051f000c60c59002ca9341d/pcepz2x7dwdiohov8lmt.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853912/production/6051f000c60c59002ca9341d/pcepz2x7dwdiohov8lmt.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853917/production/6051f000c60c59002ca9341d/pf3ealb56oqvvgza4syh.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853917/production/6051f000c60c59002ca9341d/pf3ealb56oqvvgza4syh.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853919/production/6051f000c60c59002ca9341d/fnvr4kgvsg7kpgowrlh9.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853919/production/6051f000c60c59002ca9341d/fnvr4kgvsg7kpgowrlh9.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853921/production/6051f000c60c59002ca9341d/qb9bmoeku7a71ziu0izj.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853921/production/6051f000c60c59002ca9341d/qb9bmoeku7a71ziu0izj.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853922/production/6051f000c60c59002ca9341d/cxkwao4m4n1zfhd9y2he.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853922/production/6051f000c60c59002ca9341d/cxkwao4m4n1zfhd9y2he.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853921/production/6051f000c60c59002ca9341d/thmnwzmhojiwhlzv4zna.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853921/production/6051f000c60c59002ca9341d/thmnwzmhojiwhlzv4zna.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853920/production/6051f000c60c59002ca9341d/rabck9xc3fkv7xmxdvrk.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853920/production/6051f000c60c59002ca9341d/rabck9xc3fkv7xmxdvrk.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853928/production/6051f000c60c59002ca9341d/dtyg6pshkgjecak79p5e.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853928/production/6051f000c60c59002ca9341d/dtyg6pshkgjecak79p5e.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853928/production/6051f000c60c59002ca9341d/f3pdwntbe1xynwl0tnko.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853928/production/6051f000c60c59002ca9341d/f3pdwntbe1xynwl0tnko.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714853927/production/6051f000c60c59002ca9341d/cnizj4vstuewmpl8p9mu.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714853927/production/6051f000c60c59002ca9341d/cnizj4vstuewmpl8p9mu.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854063/production/6051f000c60c59002ca9341d/tm8dtm2xeeyachiink8v.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854063/production/6051f000c60c59002ca9341d/tm8dtm2xeeyachiink8v.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714854063/production/6051f000c60c59002ca9341d/s4mvda10s0kqpiowfd4i.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1714854063/production/6051f000c60c59002ca9341d/s4mvda10s0kqpiowfd4i.jpg"
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 165
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "The Cornerstone is a prestigious new development in the heart of Stillorgan Village, a lively suburban neighbourhood just a 20-minute drive from Stephens Green. This location offers the best of both worlds: the charm of village living with the city, coast, and mountains all within easy reach, thanks to excellent transportation options. You'll find an array of shops, eateries, and leisure spots right at your doorstep. \n\nExperience top-tier urban living with exclusive amenities including a gym, communal kitchen and lounge area, games room, rooftop terrace, and a state-of-the-art business centre. The landscaped internal courtyard features a private children's play area and benches for relaxation."
+    }
+  },
+  {
+    "_id": "6658ef679b93d500139c82c4",
+    "title": "The Oslo by Dublin At Home",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "The Oslo at Sandyford Central, D18 H98F Sandyford Central, Ireland",
+      "city": "Sandyford Central"
+    },
+    "picture": {
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717106017/production/6051f000c60c59002ca9341d/vqbmgozzltb3r161mz81.jpg"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717106017/production/6051f000c60c59002ca9341d/vqbmgozzltb3r161mz81.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717106017/production/6051f000c60c59002ca9341d/vqbmgozzltb3r161mz81.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717106426/production/6051f000c60c59002ca9341d/ibgycbxpih9wooeeeqwk.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717106426/production/6051f000c60c59002ca9341d/ibgycbxpih9wooeeeqwk.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717104319/production/6051f000c60c59002ca9341d/vncvhk5vsn0qqwn8xucg.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717104319/production/6051f000c60c59002ca9341d/vncvhk5vsn0qqwn8xucg.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717104312/production/6051f000c60c59002ca9341d/ddh6rgdffkotnsakv0he.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717104312/production/6051f000c60c59002ca9341d/ddh6rgdffkotnsakv0he.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717104312/production/6051f000c60c59002ca9341d/fooivnoehsk5ycckpayh.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717104312/production/6051f000c60c59002ca9341d/fooivnoehsk5ycckpayh.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717104317/production/6051f000c60c59002ca9341d/bu7rgjmjmdhdrc1yruap.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717104317/production/6051f000c60c59002ca9341d/bu7rgjmjmdhdrc1yruap.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717104312/production/6051f000c60c59002ca9341d/ndyw3g1n3topwewsdcfk.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717104312/production/6051f000c60c59002ca9341d/ndyw3g1n3topwewsdcfk.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717104312/production/6051f000c60c59002ca9341d/zsagtwioa5gzzmybno7o.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717104312/production/6051f000c60c59002ca9341d/zsagtwioa5gzzmybno7o.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717104311/production/6051f000c60c59002ca9341d/olyqdjg9uohzlszou0xo.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717104311/production/6051f000c60c59002ca9341d/olyqdjg9uohzlszou0xo.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717104318/production/6051f000c60c59002ca9341d/q6yx3xcnmxeog2wntqux.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717104318/production/6051f000c60c59002ca9341d/q6yx3xcnmxeog2wntqux.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717104318/production/6051f000c60c59002ca9341d/vc6nxe7rm39p1jwasrdp.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717104318/production/6051f000c60c59002ca9341d/vc6nxe7rm39p1jwasrdp.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717104319/production/6051f000c60c59002ca9341d/ozvdfbhazitnvytmapz0.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717104319/production/6051f000c60c59002ca9341d/ozvdfbhazitnvytmapz0.jpg"
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1717104320/production/6051f000c60c59002ca9341d/tmodyv31ncvihitdlzow.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v1717104320/production/6051f000c60c59002ca9341d/tmodyv31ncvihitdlzow.jpg"
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 175
+    },
+    "bathrooms": 2,
+    "bedrooms": 2,
+    "accommodates": 4,
+    "publicDescription": {
+      "summary": "Located at one of South Dublin's busiest business districts these apartments offer both business travellers and leisure travellers the best accommodation available in the area. These brand new apartments are fitted and equipped to the highest standards."
+    }
+  },
+  {
+    "_id": "67059b86d4373e000da24be5",
+    "title": "The Benson One by Dublin At Home",
+    "propertyType": "Apartment",
+    "address": {
+      "full": "Sir John Rogerson's Quay, Dublin, Ireland",
+      "city": "Dublin"
+    },
+    "picture": {
+      "caption": "",
+      "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v9ny6jx7ik5zmazidq0a?_a=BAMCcSGi0"
+    },
+    "pictures": [
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043331/v9ny6jx7ik5zmazidq0a.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/v9ny6jx7ik5zmazidq0a?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043330/es64itjmhrgdzy9sakfk.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/es64itjmhrgdzy9sakfk?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043330/yqg5utubvww9laavrucg.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/yqg5utubvww9laavrucg?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043330/uetmv3kwitdkff4q2jkm.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/uetmv3kwitdkff4q2jkm?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043330/bdjuuzn0posxfksz5wpx.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/bdjuuzn0posxfksz5wpx?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043331/nk0eurnmncvrcvsh4tqc.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/nk0eurnmncvrcvsh4tqc?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043330/znize1bofybwuwktuhhc.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/znize1bofybwuwktuhhc?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043330/d2oo3ld1jus7ygc2wyxy.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/d2oo3ld1jus7ygc2wyxy?_a=BAMCcSGi0",
+        "caption": ""
+      },
+      {
+        "original": "https://assets.guesty.com/image/upload/v1714043330/kx5gmtt1qvqpbk1aycba.jpg",
+        "thumbnail": "https://assets.guesty.com/image/upload/c_fit,h_200/kx5gmtt1qvqpbk1aycba?_a=BAMCcSGi0",
+        "caption": ""
+      }
+    ],
+    "prices": {
+      "currency": "EUR",
+      "basePrice": 135
+    },
+    "bathrooms": 1,
+    "bedrooms": 1,
+    "accommodates": 2,
+    "publicDescription": {
+      "summary": "The Benson is a truly impressive development located in the heart of the Docklands. The Benson offers residents a choice of 1 & 2 bedroom apartments encompassing a luxury furniture package and elegant finishes throughout. The apartments are light filled which maximises on the incredible views of the Docklands, Aviva Stadium and Wicklow Mountains. Enjoy the added benefits of Concierge Service, Business Centre, Parcel Collection, Communal Rooftop Gardens & Basement Parking (additional fees apply).  The Docklands location is known as a major centre of employment across tech, banking, finance, and other sectors as well an abundance of hotels, eateries, and gyms in the immediate area. It is also only a 20-minute walk to Dublin's leading shopping area, Grafton Street and Henry Street is only a 15-minute walk away."
+    }
+  }
+]

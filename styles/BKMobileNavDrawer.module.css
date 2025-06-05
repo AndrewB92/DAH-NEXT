@@ -1,0 +1,96 @@
+/* Drawer Styles */
+.drawer {
+    position: fixed;
+    top: 0;
+    left: -100%; /* Initially hidden */
+    width: 100%;
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0); /* Start with transparent */
+    color: white;
+    transition: transform 2.0s cubic-bezier(0.22, 1, 0.36, 1), background-color 1.0s ease-in-out;
+    z-index: 1000;
+  }
+  
+  .drawer.open {
+    transform: translateX(100%); /* Move it fully into view */
+    background-color: rgba(255, 255, 255, 1); /* Move the drawer into view */
+  }
+  
+  /* Navigation List */
+  .navList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    margin-top: 50px;
+    text-align: left;
+  }
+  
+  .navList li {
+    padding: 15px;
+    text-align: left;
+  }
+  
+  .navList li a {
+    font-family: "SpaceGrotesk", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 27px;
+    color: var(--main-green, #40A594);
+    text-align: left;
+  }
+  
+  .navList li a:hover {
+    color: #ddd;
+  }
+  
+  /* Hamburger Button */
+  .hamburger {
+    font-size: 30px;
+    background: none;
+    border: none;
+    color: #333;
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1100;
+  }
+  
+  /* Overlay that darkens the rest of the screen */
+  .overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease-in-out, visibility 0.3s;
+    z-index: 999;
+  }
+  
+  .overlay.show {
+    opacity: 1;
+    visibility: visible;
+  }
+
+  .closeButton {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+  }
+
+  .closeButton svg {
+    width: 50px; /* Adjust the size of the SVG icon */
+    height: 50px;
+    fill: #333; /* Change the color of the SVG icon */
+  }
+  
+  .closeButton:hover svg {
+    fill: #000; /* Darken on hover */
+  }

@@ -1,0 +1,66 @@
+/* Chevrons css */
+
+.infoChevron {
+    width: 100%;
+}
+
+.chevronWrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.chevron {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.chevronText {
+    margin: 0;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.contracted {
+    position: absolute;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transition: opacity 600ms, visibility 600ms;
+    transition: opacity 1000ms, visibility 1000ms;
+}
+
+.expanded {
+    visibility: visible;
+    opacity: 1;
+    border: 1px solid grey;
+    transition: opacity 1000ms, visibility 600ms;
+}
+
+
+.bordered {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid grey;
+}
+
+.ps {
+    padding-left: 0px;
+    padding-right: 18px;
+}
+
+.centered {
+    text-align: center;
+}
+
+@media screen and (max-width: 992px) {
+    .chevronWrapper {
+        display: none;
+        margin-top: 0px;
+        margin-bottom: 20px;
+    }
+}

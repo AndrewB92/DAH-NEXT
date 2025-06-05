@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@components/*": ["components/*"],
+        "@pages/*": ["pages/*"],
+        "@styles/*": ["styles/*"],
+        "@utils/*": ["utils/*"],
+        "@public/*": ["public/*"],
+        "@helpers/*": ["helpers/*"]
+      }
+    },
+    "exclude": [
+      "node_modules",
+      ".next",
+      ".gitignore",
+      ".vercel",
+      "data",
+      "oldNext",
+      "build",
+      "dist"
+    ]
+  }

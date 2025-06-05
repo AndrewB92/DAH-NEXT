@@ -1,0 +1,344 @@
+{
+    "coupons": [],
+    "rates": {
+        "ratePlans": [
+            {
+                "quoteId": "633c0588a6ee940036be9608",
+                "ratePlan": {
+                    "_id": "default-rateplan-id",
+                    "name": "Standard",
+                    "type": "",
+                    "mealPlans": [],
+                    "cancellationPolicy": "",
+                    "cancellationFee": "",
+                    "description": "",
+                    "minNights": 0,
+                    "rateStrategies": [],
+                    "money": {
+                        "_id": "633c0588a6ee940036be9609",
+                        "currency": "EUR",
+                        "fareAccommodation": 3998.55,
+                        "fareAccommodationAdjusted": 3998.5499999999997,
+                        "fareCleaning": 50,
+                        "totalFees": 50,
+                        "subTotalPrice": 4048.55,
+                        "hostPayout": 4048.55,
+                        "hostPayoutUsd": 3995.72,
+                        "totalTaxes": 0,
+                        "invoiceItems": [
+                            {
+                                "title": "Accommodation fare",
+                                "amount": 3998.55,
+                                "currency": "EUR",
+                                "type": "ACCOMMODATION_FARE",
+                                "normalType": "AF"
+                            },
+                            {
+                                "title": "Cleaning fee",
+                                "amount": 50,
+                                "currency": "EUR",
+                                "type": "CLEANING_FEE",
+                                "normalType": "CF"
+                            }
+                        ]
+                    }
+                },
+                "days": [
+                    {
+                        "date": "2022-12-03",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 137,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 137
+                    },
+                    {
+                        "date": "2022-12-04",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 120,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 120
+                    },
+                    {
+                        "date": "2022-12-05",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 120,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 120
+                    },
+                    {
+                        "date": "2022-12-06",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 120,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 120
+                    },
+                    {
+                        "date": "2022-12-07",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 120,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 120
+                    },
+                    {
+                        "date": "2022-12-08",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 120,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 120
+                    },
+                    {
+                        "date": "2022-12-09",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 120,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 120
+                    },
+                    {
+                        "date": "2022-12-10",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 135,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 135
+                    },
+                    {
+                        "date": "2022-12-11",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 120,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 120
+                    },
+                    {
+                        "date": "2022-12-12",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 120,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 120
+                    },
+                    {
+                        "date": "2022-12-13",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 120,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 120
+                    },
+                    {
+                        "date": "2022-12-14",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 120,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 120
+                    },
+                    {
+                        "date": "2022-12-15",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 120,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 120
+                    },
+                    {
+                        "date": "2022-12-16",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 164,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 164
+                    },
+                    {
+                        "date": "2022-12-17",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 192,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 192
+                    },
+                    {
+                        "date": "2022-12-18",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 161,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 161
+                    },
+                    {
+                        "date": "2022-12-19",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 150,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 150
+                    },
+                    {
+                        "date": "2022-12-20",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 152,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 152
+                    },
+                    {
+                        "date": "2022-12-21",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 149,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 149
+                    },
+                    {
+                        "date": "2022-12-22",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 152,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 152
+                    },
+                    {
+                        "date": "2022-12-23",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 161,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 161
+                    },
+                    {
+                        "date": "2022-12-24",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 202,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 202
+                    },
+                    {
+                        "date": "2022-12-25",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 208,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 208
+                    },
+                    {
+                        "date": "2022-12-26",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 195,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 195
+                    },
+                    {
+                        "date": "2022-12-27",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 187,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 187
+                    },
+                    {
+                        "date": "2022-12-28",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 171,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 171
+                    },
+                    {
+                        "date": "2022-12-29",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 177,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 177
+                    },
+                    {
+                        "date": "2022-12-30",
+                        "currency": "EUR",
+                        "rateStrategy": 0,
+                        "ratePlan": 0,
+                        "manualPrice": 196,
+                        "lengthOfStay": 0,
+                        "minNights": 14,
+                        "price": 196
+                    }
+                ]
+            }
+        ]
+    },
+    "checkOutDateLocalized": "2022-12-31",
+    "checkInDateLocalized": "2022-12-03",
+    "unitTypeId": "605b208743b17200306e06a5",
+    "source": "BE-API",
+    "channel": "booking_engine",
+    "guestsCount": 1,
+    "accountId": "6051f000c60c59002ca9341d",
+    "expiresAt": "2022-10-05T10:06:00.138Z",
+    "createdAt": "2022-10-04T10:06:00.138Z",
+    "_id": "633c0587ef2fcffe743deced",
+    "__v": 0,
+    "status": "valid",
+    "promotions": {}
+}

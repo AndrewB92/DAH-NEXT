@@ -1,0 +1,21 @@
+/* Brand/Logo specific styles */
+
+.logoWrapper {
+    text-align: center;
+}
+
+.mainLogo {
+    margin-top: 20px;
+    width: 280px;
+}
+
+.logo {
+    padding-top: 25px;
+    padding-bottom: 8px;
+}
+
+@media screen and (max-width: 992px) {
+    .mainLogo {
+        width: 90%;
+    }
+}

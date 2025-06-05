@@ -1,0 +1,91 @@
+/* Calendar css */
+
+.reactCalendar {
+    width: 100%;
+}
+
+.reactCalendarBox {
+    width: 100%;
+    border: 0;
+    border-radius: 4px !important;
+}
+
+.priceSpinner {
+    font-size: 36px;
+}
+
+.reactCalendar {
+  font-family: "SpaceGrotesk-Bold", sans-serif !important;
+}
+
+/* Ticket */
+.ticket {
+    padding: 20px;
+    text-align: center;
+    margin-top: 20px;
+    border: 1px solid #dbe3ee;
+    font-family: "Inter-Regular", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 38px;
+    color: #707070;
+}
+
+.bookMessage {
+    font-size: 18px;
+}
+
+.cardText {
+    text-align: center;
+}
+
+.enquiryButton {
+    background-color: #2fbcae;
+    border: 0;
+}
+
+.dateLabel {
+    font-size: 20px;
+}
+
+.cardText {
+    text-align: center;
+}
+
+.arrow {
+    width: 70px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.price {
+    font-size: 28px;
+    color: #5e5e5e;
+    line-height: 1.5rem;
+    height: 28px;
+}
+
+.normalText  {
+    font-size: 16px;
+}
+
+
+.enquiryButton {
+    background-color: #2fbcae;
+    border: 0;
+}
+
+.modal {
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    right: 40px;
+    bottom: 40px;
+}
+ 
+@media screen and (max-width: 992px) {
+    .reactCalendar {
+        margin-top: 10px;
+    }
+}

@@ -1,0 +1,22 @@
+/* Ticket module css */
+
+.ticket {
+    text-align: center;
+    margin-top: 20px;
+    box-shadow: 5px 5px 4px lightgrey;
+}
+
+.cardText {
+    text-align: center;
+}
+
+.arrow {
+    width: 70px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.enquiryButton {
+    background-color: #2fbcae;
+    border: 0;
+}

@@ -1,0 +1,36 @@
+/* About us styles */
+
+.picWrapper {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    background-color: #e4e6e5;
+}
+
+.inlineLink {
+    font-weight: 600; font-size: 16px;
+}
+
+.picColumn {
+    text-align: center;
+}
+
+.textDahOrange {
+    color: #c1755d;
+}
+
+.centered {
+    margin: 0 auto;
+}
+
+.quote {
+    font-weight: 600;
+    font-style: italic;
+    margin-bottom: 0px;
+}
+
+.author {
+    margin-top: 0px;
+    font-weight: 800;
+}
